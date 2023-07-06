@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Superior Dragon Helmet",
+   "recipe": {
+      "A1": "SUPERIOR_FRAGMENT:10",
+      "A2": "SUPERIOR_FRAGMENT:10",
+      "A3": "SUPERIOR_FRAGMENT:10",
+      "B1": "SUPERIOR_FRAGMENT:10",
+      "B2": "",
+      "B3": "SUPERIOR_FRAGMENT:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SUPERIOR_DRAGON_HELMET",
+   "crafttext": ""
+}

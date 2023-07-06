@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Shark Scale Boots",
+   "internalname": "SHARK_SCALE_BOOTS",
+   "recipe": {
+      "A1": "ENCHANTED_SHARK_FIN:1",
+      "A2": "SPONGE_BOOTS:1",
+      "A3": "ENCHANTED_SHARK_FIN:1",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aShark Bait",
+   "recipe": {
+      "A1": "SHARK_FIN:1",
+      "A2": "SHARK_FIN:1",
+      "A3": "",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SHARK_BAIT",
+   "crafttext": ""
+}

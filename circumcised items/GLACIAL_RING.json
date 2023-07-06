@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aGlacial Ring",
+   "recipe": {
+      "A1": "GLACIAL_FRAGMENT:5",
+      "A2": "ENCHANTED_ICE:32",
+      "A3": "GLACIAL_FRAGMENT:5",
+      "B1": "ENCHANTED_ICE:32",
+      "B2": "GLACIAL_TALISMAN:1",
+      "B3": "ENCHANTED_ICE:32",
+      "C1": "GLACIAL_FRAGMENT:5",
+      "C2": "ENCHANTED_ICE:32",
+      "C3": "GLACIAL_FRAGMENT:5"
+   },
+   "internalname": "GLACIAL_RING",
+   "crafttext": "Requires: Ice VI"
+}

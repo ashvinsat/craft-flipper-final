@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Sulphuric Coal",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_COAL:4",
+      "A3": "",
+      "B1": "ENCHANTED_COAL:4",
+      "B2": "ENCHANTED_SULPHUR:1",
+      "B3": "ENCHANTED_COAL:4",
+      "C1": "",
+      "C2": "ENCHANTED_COAL:4",
+      "C3": ""
+   },
+   "internalname": "SULPHURIC_COAL",
+   "crafttext": ""
+}

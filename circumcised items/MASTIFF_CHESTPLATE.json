@@ -1,0 +1,16 @@
+{
+   "internalname": "MASTIFF_CHESTPLATE",
+   "displayname": "\u00a75Mastiff Chestplate",
+   "recipe": {
+      "A1": "GOLDEN_TOOTH:1",
+      "A2": "ENCHANTED_GOLD:16",
+      "A3": "GOLDEN_TOOTH:1",
+      "B1": "ENCHANTED_GOLD:16",
+      "B2": "GROWTH_CHESTPLATE:1",
+      "B3": "ENCHANTED_GOLD:16",
+      "C1": "GOLDEN_TOOTH:1",
+      "C2": "ENCHANTED_GOLD:16",
+      "C3": "GOLDEN_TOOTH:1"
+   },
+   "crafttext": ""
+}

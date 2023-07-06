@@ -1,0 +1,16 @@
+{
+   "internalname": "HOLY_DRAGON_CHESTPLATE",
+   "displayname": "\u00a76Holy Dragon Chestplate",
+   "recipe": {
+      "A1": "HOLY_FRAGMENT:10",
+      "A2": "",
+      "A3": "HOLY_FRAGMENT:10",
+      "B1": "HOLY_FRAGMENT:10",
+      "B2": "HOLY_FRAGMENT:10",
+      "B3": "HOLY_FRAGMENT:10",
+      "C1": "HOLY_FRAGMENT:10",
+      "C2": "HOLY_FRAGMENT:10",
+      "C3": "HOLY_FRAGMENT:10"
+   },
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Enchanted Lava Bucket",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_IRON:1",
+      "B2": "ENCHANTED_COAL_BLOCK:2",
+      "B3": "ENCHANTED_IRON:1",
+      "C1": "",
+      "C2": "ENCHANTED_IRON:1",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_LAVA_BUCKET",
+   "crafttext": "Requires: Coal VIII"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Fermento Boots",
+   "recipe": {
+      "A1": "CONDENSED_FERMENTO:1",
+      "A2": "",
+      "A3": "CONDENSED_FERMENTO:1",
+      "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
+      "B2": "SQUASH_BOOTS:1",
+      "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "FERMENTO_BOOTS",
+   "crafttext": ""
+}

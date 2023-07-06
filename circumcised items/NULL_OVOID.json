@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Null Ovoid",
+   "recipe": {
+      "A1": "",
+      "A2": "NULL_SPHERE:32",
+      "A3": "",
+      "B1": "NULL_SPHERE:32",
+      "B2": "ENCHANTED_OBSIDIAN:32",
+      "B3": "NULL_SPHERE:32",
+      "C1": "",
+      "C2": "NULL_SPHERE:32",
+      "C3": ""
+   },
+   "internalname": "NULL_OVOID",
+   "crafttext": ""
+}

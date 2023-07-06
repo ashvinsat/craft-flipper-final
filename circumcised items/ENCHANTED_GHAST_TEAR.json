@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Ghast Tear",
+   "recipe": {
+      "A1": "",
+      "A2": "GHAST_TEAR:1",
+      "A3": "",
+      "B1": "GHAST_TEAR:1",
+      "B2": "GHAST_TEAR:1",
+      "B3": "GHAST_TEAR:1",
+      "C1": "",
+      "C2": "GHAST_TEAR:1",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_GHAST_TEAR",
+   "crafttext": "Requires: Ghast Tear IV"
+}

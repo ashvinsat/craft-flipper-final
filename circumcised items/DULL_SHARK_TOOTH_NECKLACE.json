@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aDull Shark Tooth Necklace",
+   "recipe": {
+      "A1": "",
+      "A2": "NURSE_SHARK_TOOTH:1",
+      "A3": "",
+      "B1": "NURSE_SHARK_TOOTH:1",
+      "B2": "RAGGEDY_SHARK_TOOTH_NECKLACE:1",
+      "B3": "NURSE_SHARK_TOOTH:1",
+      "C1": "",
+      "C2": "NURSE_SHARK_TOOTH:1",
+      "C3": ""
+   },
+   "internalname": "DULL_SHARK_TOOTH_NECKLACE",
+   "crafttext": ""
+}

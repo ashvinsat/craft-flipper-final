@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Wand of Mending",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "REVENANT_VISCERA:1",
+      "B1": "",
+      "B2": "WAND_OF_HEALING:1",
+      "B3": "",
+      "C1": "ENCHANTED_DARK_OAK_LOG:12",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "WAND_OF_MENDING",
+   "crafttext": ""
+}

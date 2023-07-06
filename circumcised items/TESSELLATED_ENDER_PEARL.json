@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a76Tessellated Ender Pearl",
+   "recipe": {
+      "A1": "ENCHANTED_LAPIS_LAZULI_BLOCK:8",
+      "A2": "ABSOLUTE_ENDER_PEARL:16",
+      "A3": "ENCHANTED_LAPIS_LAZULI_BLOCK:8",
+      "B1": "ABSOLUTE_ENDER_PEARL:16",
+      "B2": "ABSOLUTE_ENDER_PEARL:16",
+      "B3": "ABSOLUTE_ENDER_PEARL:16",
+      "C1": "ENCHANTED_LAPIS_LAZULI_BLOCK:8",
+      "C2": "ABSOLUTE_ENDER_PEARL:16",
+      "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:8"
+   },
+   "internalname": "TESSELLATED_ENDER_PEARL",
+   "crafttext": ""
+}

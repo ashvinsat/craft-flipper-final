@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Ender Bow",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_ENDER_PEARL:4",
+      "A3": "STRING:1",
+      "B1": "ENCHANTED_ENDER_PEARL:4",
+      "B2": "",
+      "B3": "STRING:1",
+      "C1": "",
+      "C2": "ENCHANTED_ENDER_PEARL:4",
+      "C3": "STRING:1"
+   },
+   "internalname": "ENDER_BOW",
+   "crafttext": "Requires: Ender Pearl V"
+}

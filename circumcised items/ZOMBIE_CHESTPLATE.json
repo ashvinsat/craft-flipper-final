@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Zombie Chestplate",
+   "recipe": {
+      "A1": "ENCHANTED_ROTTEN_FLESH:1",
+      "A2": "",
+      "A3": "ENCHANTED_ROTTEN_FLESH:1",
+      "B1": "ENCHANTED_ROTTEN_FLESH:1",
+      "B2": "ZOMBIE_HEART:1",
+      "B3": "ENCHANTED_ROTTEN_FLESH:1",
+      "C1": "ZOMBIE_HEART:1",
+      "C2": "ZOMBIE_HEART:1",
+      "C3": "ZOMBIE_HEART:1"
+   },
+   "internalname": "ZOMBIE_CHESTPLATE",
+   "crafttext": "Requires: Rotten Flesh VIII"
+}

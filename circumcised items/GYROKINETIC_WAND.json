@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Gyrokinetic Wand",
+   "recipe": {
+      "A1": "NULL_OVOID:16",
+      "A2": "ENCHANTED_EYE_OF_ENDER:30",
+      "A3": "NULL_OVOID:16",
+      "B1": "NULL_OVOID:16",
+      "B2": "ENCHANTED_BLAZE_ROD:15",
+      "B3": "NULL_OVOID:16",
+      "C1": "NULL_OVOID:16",
+      "C2": "ENCHANTED_BLAZE_ROD:15",
+      "C3": "NULL_OVOID:16"
+   },
+   "internalname": "GYROKINETIC_WAND",
+   "crafttext": ""
+}

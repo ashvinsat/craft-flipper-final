@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Protector Dragon Helmet",
+   "recipe": {
+      "A1": "PROTECTOR_FRAGMENT:10",
+      "A2": "PROTECTOR_FRAGMENT:10",
+      "A3": "PROTECTOR_FRAGMENT:10",
+      "B1": "PROTECTOR_FRAGMENT:10",
+      "B2": "",
+      "B3": "PROTECTOR_FRAGMENT:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "PROTECTOR_DRAGON_HELMET",
+   "crafttext": ""
+}

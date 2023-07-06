@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a75Overflux Power Orb",
+   "recipe": {
+      "A1": "GOLDEN_TOOTH:32",
+      "A2": "OVERFLUX_CAPACITOR:1",
+      "A3": "GOLDEN_TOOTH:32",
+      "B1": "ENCHANTED_REDSTONE_BLOCK:8",
+      "B2": "MANA_FLUX_POWER_ORB:1",
+      "B3": "ENCHANTED_REDSTONE_BLOCK:8",
+      "C1": "GOLDEN_TOOTH:32",
+      "C2": "ENCHANTED_REDSTONE_BLOCK:8",
+      "C3": "GOLDEN_TOOTH:32"
+   },
+   "internalname": "OVERFLUX_POWER_ORB",
+   "crafttext": ""
+}

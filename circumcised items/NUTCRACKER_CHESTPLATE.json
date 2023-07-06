@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Nutcracker Chestplate",
+   "recipe": {
+      "A1": "WALNUT:3",
+      "A2": "SNOW_SUIT_CHESTPLATE:1",
+      "A3": "WALNUT:3",
+      "B1": "WALNUT:3",
+      "B2": "WALNUT:3",
+      "B3": "WALNUT:3",
+      "C1": "WALNUT:3",
+      "C2": "WALNUT:3",
+      "C3": "WALNUT:3"
+   },
+   "internalname": "NUTCRACKER_CHESTPLATE",
+   "crafttext": ""
+}

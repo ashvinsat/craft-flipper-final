@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Terminator",
+   "recipe": {
+      "A1": "TESSELLATED_ENDER_PEARL:4",
+      "A2": "NULL_BLADE:1",
+      "A3": "TARANTULA_SILK:64",
+      "B1": "NULL_BLADE:1",
+      "B2": "JUDGEMENT_CORE:1",
+      "B3": "BRAIDED_GRIFFIN_FEATHER:4",
+      "C1": "TESSELLATED_ENDER_PEARL:4",
+      "C2": "NULL_BLADE:1",
+      "C3": "TARANTULA_SILK:64"
+   },
+   "internalname": "TERMINATOR",
+   "crafttext": ""
+}

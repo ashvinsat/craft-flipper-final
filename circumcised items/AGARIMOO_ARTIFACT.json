@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Agarimoo Artifact",
+   "recipe": {
+      "A1": "AGARIMOO_TONGUE:64",
+      "A2": "AGARIMOO_TONGUE:64",
+      "A3": "AGARIMOO_TONGUE:64",
+      "B1": "AGARIMOO_TONGUE:64",
+      "B2": "AGARIMOO_RING:1",
+      "B3": "AGARIMOO_TONGUE:64",
+      "C1": "AGARIMOO_TONGUE:64",
+      "C2": "AGARIMOO_TONGUE:64",
+      "C3": "AGARIMOO_TONGUE:64"
+   },
+   "internalname": "AGARIMOO_ARTIFACT",
+   "crafttext": ""
+}

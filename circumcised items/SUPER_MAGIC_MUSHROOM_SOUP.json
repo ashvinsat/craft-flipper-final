@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Mystical Mushroom Soup",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_GLOWSTONE_DUST:1",
+      "A3": "",
+      "B1": "ENCHANTED_RED_MUSHROOM:1",
+      "B2": "ENCHANTED_BROWN_MUSHROOM:1",
+      "B3": "ENCHANTED_REDSTONE:1",
+      "C1": "",
+      "C2": "BOWL:1",
+      "C3": ""
+   },
+   "internalname": "SUPER_MAGIC_MUSHROOM_SOUP",
+   "crafttext": "Requires: Mushroom VII"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Daedalus Axe",
+   "recipe": {
+      "A1": "ENCHANTED_GOLD_BLOCK:16",
+      "A2": "ENCHANTED_GOLD_BLOCK:16",
+      "A3": "",
+      "B1": "ENCHANTED_GOLD_BLOCK:16",
+      "B2": "DAEDALUS_STICK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "DAEDALUS_STICK:1",
+      "C3": ""
+   },
+   "internalname": "DAEDALUS_AXE",
+   "crafttext": ""
+}

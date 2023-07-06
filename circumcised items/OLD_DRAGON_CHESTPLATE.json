@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Old Dragon Chestplate",
+   "recipe": {
+      "A1": "OLD_FRAGMENT:10",
+      "A2": "",
+      "A3": "OLD_FRAGMENT:10",
+      "B1": "OLD_FRAGMENT:10",
+      "B2": "OLD_FRAGMENT:10",
+      "B3": "OLD_FRAGMENT:10",
+      "C1": "OLD_FRAGMENT:10",
+      "C2": "OLD_FRAGMENT:10",
+      "C3": "OLD_FRAGMENT:10"
+   },
+   "internalname": "OLD_DRAGON_CHESTPLATE",
+   "crafttext": ""
+}

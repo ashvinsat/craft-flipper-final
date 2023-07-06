@@ -1,0 +1,16 @@
+{
+   "internalname": "RED_CLAW_RING",
+   "displayname": "\u00a79Red Claw Ring",
+   "recipe": {
+      "A1": "ENCHANTED_LEATHER:8",
+      "A2": "GOLDEN_TOOTH:2",
+      "A3": "ENCHANTED_LEATHER:8",
+      "B1": "GOLDEN_TOOTH:2",
+      "B2": "RED_CLAW_TALISMAN:1",
+      "B3": "GOLDEN_TOOTH:2",
+      "C1": "ENCHANTED_LEATHER:8",
+      "C2": "GOLDEN_TOOTH:2",
+      "C3": "ENCHANTED_LEATHER:8"
+   },
+   "crafttext": ""
+}

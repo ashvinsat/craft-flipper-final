@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Whale Bait",
+   "recipe": {
+      "A1": "FISH_BAIT:1",
+      "A2": "LIGHT_BAIT:1",
+      "A3": "",
+      "B1": "DARK_BAIT:1",
+      "B2": "BLESSED_BAIT:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "WHALE_BAIT",
+   "crafttext": "Requires: Lily Pad VI"
+}

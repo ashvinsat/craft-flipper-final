@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Bluetooth Ring",
+   "recipe": {
+      "A1": "METAL_HEART:4",
+      "A2": "METAL_HEART:4",
+      "A3": "METAL_HEART:4",
+      "B1": "METAL_HEART:4",
+      "B2": "",
+      "B3": "METAL_HEART:4",
+      "C1": "METAL_HEART:4",
+      "C2": "METAL_HEART:4",
+      "C3": "METAL_HEART:4"
+   },
+   "internalname": "BLUETOOTH_RING",
+   "crafttext": "Requires: Living Metal Heart III"
+}

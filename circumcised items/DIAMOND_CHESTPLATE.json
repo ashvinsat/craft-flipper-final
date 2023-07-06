@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aDiamond Chestplate",
+   "internalname": "DIAMOND_CHESTPLATE",
+   "crafttext": "",
+   "recipe": {
+      "A1": "DIAMOND:1",
+      "A2": "",
+      "A3": "DIAMOND:1",
+      "B1": "DIAMOND:1",
+      "B2": "DIAMOND:1",
+      "B3": "DIAMOND:1",
+      "C1": "DIAMOND:1",
+      "C2": "DIAMOND:1",
+      "C3": "DIAMOND:1"
+   }
+}

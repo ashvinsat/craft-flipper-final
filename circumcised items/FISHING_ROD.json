@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fFishing Rod",
+   "internalname": "FISHING_ROD",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "STICK:1",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "STRING:1",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": "STRING:1"
+   },
+   "crafttext": ""
+}

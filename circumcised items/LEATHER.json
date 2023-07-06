@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a7fLeather",
+   "internalname": "LEATHER",
+   "recipe": {
+      "A1": "RABBIT_HIDE:1",
+      "A2": "RABBIT_HIDE:1",
+      "A3": "",
+      "B1": "RABBIT_HIDE:1",
+      "B2": "RABBIT_HIDE:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   }
+}

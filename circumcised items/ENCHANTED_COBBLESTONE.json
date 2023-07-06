@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Cobblestone",
+   "recipe": {
+      "A1": "",
+      "A2": "COBBLESTONE:32",
+      "A3": "",
+      "B1": "COBBLESTONE:32",
+      "B2": "COBBLESTONE:32",
+      "B3": "COBBLESTONE:32",
+      "C1": "",
+      "C2": "COBBLESTONE:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_COBBLESTONE",
+   "crafttext": "Requires: Cobblestone IV"
+}

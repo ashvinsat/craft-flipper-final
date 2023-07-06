@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a79Golden Tooth",
+   "recipe": {
+      "A1": "",
+      "A2": "WOLF_TOOTH:32",
+      "A3": "",
+      "B1": "WOLF_TOOTH:32",
+      "B2": "ENCHANTED_GOLD:32",
+      "B3": "WOLF_TOOTH:32",
+      "C1": "",
+      "C2": "WOLF_TOOTH:32",
+      "C3": ""
+   },
+   "internalname": "GOLDEN_TOOTH"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Great White Tooth Meal",
+   "recipe": {
+      "A1": "",
+      "A2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "A3": "",
+      "B1": "GREAT_WHITE_SHARK_TOOTH:1",
+      "B2": "ENCHANTED_BONE:1",
+      "B3": "GREAT_WHITE_SHARK_TOOTH:1",
+      "C1": "",
+      "C2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "C3": ""
+   },
+   "internalname": "GREAT_WHITE_TOOTH_MEAL",
+   "crafttext": ""
+}

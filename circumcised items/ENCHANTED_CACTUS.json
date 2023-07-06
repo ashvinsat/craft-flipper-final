@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Cactus",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_CACTUS_GREEN:32",
+      "A3": "",
+      "B1": "ENCHANTED_CACTUS_GREEN:32",
+      "B2": "ENCHANTED_CACTUS_GREEN:32",
+      "B3": "ENCHANTED_CACTUS_GREEN:32",
+      "C1": "",
+      "C2": "ENCHANTED_CACTUS_GREEN:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_CACTUS",
+   "crafttext": "Requires: Cactus VIII"
+}

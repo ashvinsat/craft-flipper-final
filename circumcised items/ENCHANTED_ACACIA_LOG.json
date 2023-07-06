@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Acacia Wood",
+   "recipe": {
+      "A1": "",
+      "A2": "LOG_2:32",
+      "A3": "",
+      "B1": "LOG_2:32",
+      "B2": "LOG_2:32",
+      "B3": "LOG_2:32",
+      "C1": "",
+      "C2": "LOG_2:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_ACACIA_LOG",
+   "crafttext": "Requires: Acacia Wood VI"
+}

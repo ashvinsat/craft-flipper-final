@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aSimple Carrot Candy",
+   "recipe": {
+      "A1": "CARROT_ITEM:64",
+      "A2": "CARROT_ITEM:64",
+      "A3": "CARROT_ITEM:64",
+      "B1": "CARROT_ITEM:64",
+      "B2": "CARROT_ITEM:64",
+      "B3": "CARROT_ITEM:64",
+      "C1": "CARROT_ITEM:64",
+      "C2": "CARROT_ITEM:64",
+      "C3": "CARROT_ITEM:64"
+   },
+   "internalname": "SIMPLE_CARROT_CANDY",
+   "crafttext": "Requires: Carrot II"
+}

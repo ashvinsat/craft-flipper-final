@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Vorpal Katana",
+   "recipe": {
+      "A1": "",
+      "A2": "NULL_EDGE:1",
+      "A3": "",
+      "B1": "",
+      "B2": "NULL_OVOID:8",
+      "B3": "",
+      "C1": "REFINED_MITHRIL:4",
+      "C2": "VOIDEDGE_KATANA:1",
+      "C3": "REFINED_MITHRIL:4"
+   },
+   "internalname": "VORPAL_KATANA",
+   "crafttext": ""
+}

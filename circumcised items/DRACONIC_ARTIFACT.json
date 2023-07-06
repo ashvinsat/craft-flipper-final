@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Draconic Artifact",
+   "recipe": {
+      "A1": "RITUAL_RESIDUE:3",
+      "A2": "TESSELLATED_ENDER_PEARL:1",
+      "A3": "RITUAL_RESIDUE:3",
+      "B1": "MITE_GEL:64",
+      "B2": "DRACONIC_RING:1",
+      "B3": "MITE_GEL:64",
+      "C1": "RITUAL_RESIDUE:3",
+      "C2": "TESSELLATED_ENDER_PEARL:1",
+      "C3": "RITUAL_RESIDUE:3"
+   },
+   "internalname": "DRACONIC_ARTIFACT",
+   "crafttext": ""
+}

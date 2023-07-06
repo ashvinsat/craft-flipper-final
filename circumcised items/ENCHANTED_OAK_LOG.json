@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Oak Wood",
+   "recipe": {
+      "A1": "",
+      "A2": "LOG:32",
+      "A3": "",
+      "B1": "LOG:32",
+      "B2": "LOG:32",
+      "B3": "LOG:32",
+      "C1": "",
+      "C2": "LOG:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_OAK_LOG",
+   "crafttext": "Requires: Oak Wood VI"
+}

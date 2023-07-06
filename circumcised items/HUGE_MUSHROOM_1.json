@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fBrown Mushroom Block",
+   "recipe": {
+      "A1": "BROWN_MUSHROOM:1",
+      "A2": "BROWN_MUSHROOM:1",
+      "A3": "BROWN_MUSHROOM:1",
+      "B1": "BROWN_MUSHROOM:1",
+      "B2": "BROWN_MUSHROOM:1",
+      "B3": "BROWN_MUSHROOM:1",
+      "C1": "BROWN_MUSHROOM:1",
+      "C2": "BROWN_MUSHROOM:1",
+      "C3": "BROWN_MUSHROOM:1"
+   },
+   "internalname": "HUGE_MUSHROOM_1",
+   "crafttext": "Requires: Mushroom V"
+}

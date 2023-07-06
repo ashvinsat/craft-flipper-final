@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a75Exp Share",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_GOLD:12",
+      "A3": "",
+      "B1": "ENCHANTED_GOLD:12",
+      "B2": "PET_ITEM_EXP_SHARE_DROP:1",
+      "B3": "ENCHANTED_GOLD:12",
+      "C1": "ENCHANTED_GOLD:12",
+      "C2": "ENCHANTED_GOLD:12",
+      "C3": "ENCHANTED_GOLD:12"
+   },
+   "internalname": "PET_ITEM_EXP_SHARE",
+   "crafttext": ""
+}

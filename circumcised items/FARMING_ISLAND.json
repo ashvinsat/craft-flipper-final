@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fFarming Island",
+   "recipe": {
+      "A1": "HAY_BLOCK:5",
+      "A2": "HAY_BLOCK:5",
+      "A3": "HAY_BLOCK:5",
+      "B1": "DIRT:5",
+      "B2": "DIRT:5",
+      "B3": "DIRT:5",
+      "C1": "DIRT:5",
+      "C2": "DIRT:5",
+      "C3": "DIRT:5"
+   },
+   "internalname": "FARMING_ISLAND",
+   "crafttext": "Requires: Wheat VI"
+}

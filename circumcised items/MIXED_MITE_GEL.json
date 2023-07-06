@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Mixed Mite Gel",
+   "recipe": {
+      "A1": "",
+      "A2": "MITE_GEL:32",
+      "A3": "",
+      "B1": "MITE_GEL:32",
+      "B2": "MITE_GEL:32",
+      "B3": "MITE_GEL:32",
+      "C1": "",
+      "C2": "MITE_GEL:32",
+      "C3": ""
+   },
+   "internalname": "MIXED_MITE_GEL",
+   "crafttext": ""
+}

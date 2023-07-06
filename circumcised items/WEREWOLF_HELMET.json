@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Werewolf Helmet",
+   "recipe": {
+      "A1": "WEREWOLF_SKIN:4",
+      "A2": "WEREWOLF_SKIN:4",
+      "A3": "WEREWOLF_SKIN:4",
+      "B1": "WEREWOLF_SKIN:4",
+      "B2": "",
+      "B3": "WEREWOLF_SKIN:4",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "WEREWOLF_HELMET",
+   "crafttext": ""
+}

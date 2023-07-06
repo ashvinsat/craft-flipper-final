@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a79Master Skull - Tier 5",
+   "recipe": {
+      "A1": "MASTER_SKULL_TIER_4:1",
+      "A2": "MASTER_SKULL_TIER_4:1",
+      "A3": "",
+      "B1": "MASTER_SKULL_TIER_4:1",
+      "B2": "MASTER_SKULL_TIER_4:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "MASTER_SKULL_TIER_5",
+   "crafttext": ""
+}

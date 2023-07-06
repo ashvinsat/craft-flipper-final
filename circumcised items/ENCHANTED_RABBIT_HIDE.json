@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Rabbit Hide",
+   "recipe": {
+      "A1": "RABBIT_HIDE:64",
+      "A2": "RABBIT_HIDE:64",
+      "A3": "RABBIT_HIDE:64",
+      "B1": "RABBIT_HIDE:64",
+      "B2": "RABBIT_HIDE:64",
+      "B3": "RABBIT_HIDE:64",
+      "C1": "RABBIT_HIDE:64",
+      "C2": "RABBIT_HIDE:64",
+      "C3": "RABBIT_HIDE:64"
+   },
+   "internalname": "ENCHANTED_RABBIT_HIDE",
+   "crafttext": "Requires: Raw Rabbit VI"
+}

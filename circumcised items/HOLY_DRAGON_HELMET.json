@@ -1,0 +1,16 @@
+{
+   "internalname": "HOLY_DRAGON_HELMET",
+   "displayname": "\u00a76Holy Dragon Helmet",
+   "recipe": {
+      "A1": "HOLY_FRAGMENT:10",
+      "A2": "HOLY_FRAGMENT:10",
+      "A3": "HOLY_FRAGMENT:10",
+      "B1": "HOLY_FRAGMENT:10",
+      "B2": "",
+      "B3": "HOLY_FRAGMENT:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "crafttext": ""
+}

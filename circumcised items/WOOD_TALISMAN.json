@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aWood Affinity Talisman",
+   "recipe": {
+      "A1": "LEAVES:1",
+      "A2": "LEAVES:1",
+      "A3": "LEAVES:1",
+      "B1": "LEAVES:1",
+      "B2": "ENCHANTED_OAK_LOG:1",
+      "B3": "LEAVES:1",
+      "C1": "LEAVES:1",
+      "C2": "LEAVES:1",
+      "C3": "LEAVES:1"
+   },
+   "internalname": "WOOD_TALISMAN",
+   "crafttext": "Requires: Oak Wood VIII"
+}

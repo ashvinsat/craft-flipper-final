@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Glowstone",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_GLOWSTONE_DUST:48",
+      "B2": "ENCHANTED_GLOWSTONE_DUST:48",
+      "B3": "",
+      "C1": "ENCHANTED_GLOWSTONE_DUST:48",
+      "C2": "ENCHANTED_GLOWSTONE_DUST:48",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_GLOWSTONE",
+   "crafttext": "Requires: Glowstone Dust VI"
+}

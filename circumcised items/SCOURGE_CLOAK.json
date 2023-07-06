@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Scourge Cloak",
+   "recipe": {
+      "A1": "MUTATED_BLAZE_ASHES:5",
+      "A2": "COMPACT_OOZE:5",
+      "A3": "MUTATED_BLAZE_ASHES:5",
+      "B1": "COMPACT_OOZE:5",
+      "B2": "REKINDLED_EMBER_FRAGMENT:5",
+      "B3": "COMPACT_OOZE:5",
+      "C1": "MUTATED_BLAZE_ASHES:5",
+      "C2": "COMPACT_OOZE:5",
+      "C3": "MUTATED_BLAZE_ASHES:5"
+   },
+   "internalname": "SCOURGE_CLOAK",
+   "crafttext": ""
+}

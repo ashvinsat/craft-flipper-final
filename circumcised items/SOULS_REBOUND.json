@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a75Souls Rebound",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_GHAST_TEAR:64",
+      "A3": "SOUL_STRING:64",
+      "B1": "ENCHANTED_GHAST_TEAR:64",
+      "B2": "DARK_QUEENS_SOUL_DROP:10",
+      "B3": "SOUL_STRING:64",
+      "C1": "",
+      "C2": "ENCHANTED_GHAST_TEAR:64",
+      "C3": "SOUL_STRING:64"
+   },
+   "internalname": "SOULS_REBOUND"
+}

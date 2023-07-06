@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Horns of Torment",
+   "recipe": {
+      "A1": "ENCHANTED_MUTTON:24",
+      "A2": "ENCHANTED_MUTTON:24",
+      "A3": "ENCHANTED_MUTTON:24",
+      "B1": "ENCHANTED_MUTTON:24",
+      "B2": "HORN_OF_TAURUS:32",
+      "B3": "ENCHANTED_MUTTON:24",
+      "C1": "ENCHANTED_MUTTON:24",
+      "C2": "ENCHANTED_MUTTON:24",
+      "C3": "ENCHANTED_MUTTON:24"
+   },
+   "internalname": "HORNS_OF_TORMENT",
+   "crafttext": "Requires: Mutton IX"
+}

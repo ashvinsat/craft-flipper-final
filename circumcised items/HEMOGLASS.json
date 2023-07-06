@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Hemoglass",
+   "recipe": {
+      "A1": "",
+      "A2": "HEMOVIBE:32",
+      "A3": "",
+      "B1": "HEMOVIBE:32",
+      "B2": "HEMOVIBE:32",
+      "B3": "HEMOVIBE:32",
+      "C1": "",
+      "C2": "HEMOVIBE:32",
+      "C3": ""
+   },
+   "internalname": "HEMOGLASS",
+   "crafttext": "Requires: Hemovibe III"
+}

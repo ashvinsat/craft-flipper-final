@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Golem Armor Chestplate",
+   "recipe": {
+      "A1": "ENCHANTED_IRON:10",
+      "A2": "",
+      "A3": "ENCHANTED_IRON:10",
+      "B1": "ENCHANTED_IRON:10",
+      "B2": "ENCHANTED_IRON:10",
+      "B3": "ENCHANTED_IRON:10",
+      "C1": "ENCHANTED_IRON:10",
+      "C2": "ENCHANTED_IRON:10",
+      "C3": "ENCHANTED_IRON:10"
+   },
+   "internalname": "GOLEM_ARMOR_CHESTPLATE",
+   "crafttext": "Requires: Iron Ingot VI"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aLush Talisman",
+   "recipe": {
+      "A1": "LUSH_BERBERIS:64",
+      "A2": "LUSH_BERBERIS:64",
+      "A3": "LUSH_BERBERIS:64",
+      "B1": "LUSH_BERBERIS:64",
+      "B2": "LUSH_BERBERIS:64",
+      "B3": "LUSH_BERBERIS:64",
+      "C1": "LUSH_BERBERIS:64",
+      "C2": "LUSH_BERBERIS:64",
+      "C3": "LUSH_BERBERIS:64"
+   },
+   "internalname": "LUSH_TALISMAN",
+   "crafttext": ""
+}

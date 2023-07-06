@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79\u2e15 \u00a79Fine Amber Gemstone",
+   "recipe": {
+      "A1": "",
+      "A2": "FLAWED_AMBER_GEM:16",
+      "A3": "",
+      "B1": "FLAWED_AMBER_GEM:16",
+      "B2": "FLAWED_AMBER_GEM:16",
+      "B3": "FLAWED_AMBER_GEM:16",
+      "C1": "",
+      "C2": "FLAWED_AMBER_GEM:16",
+      "C3": ""
+   },
+   "internalname": "FINE_AMBER_GEM",
+   "crafttext": "Requires Gemstone Collection V"
+}

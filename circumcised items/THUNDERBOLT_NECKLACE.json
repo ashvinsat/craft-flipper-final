@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a75Thunderbolt Necklace",
+   "recipe": {
+      "A1": "THUNDER_SHARDS:1",
+      "A2": "",
+      "A3": "THUNDER_SHARDS:1",
+      "B1": "THUNDER_SHARDS:1",
+      "B2": "",
+      "B3": "THUNDER_SHARDS:1",
+      "C1": "",
+      "C2": "THUNDER_SHARDS:1",
+      "C3": ""
+   },
+   "internalname": "THUNDERBOLT_NECKLACE",
+   "crafttext": ""
+}

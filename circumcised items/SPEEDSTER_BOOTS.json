@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Speedster Boots",
+   "recipe": {
+      "A1": "ENCHANTED_SUGAR_CANE:1",
+      "A2": "",
+      "A3": "ENCHANTED_SUGAR_CANE:1",
+      "B1": "ENCHANTED_SUGAR_CANE:1",
+      "B2": "",
+      "B3": "ENCHANTED_SUGAR_CANE:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SPEEDSTER_BOOTS",
+   "crafttext": "Requires: Sugar Cane IX"
+}

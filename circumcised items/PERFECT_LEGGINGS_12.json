@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Perfect Leggings - Tier XII",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_DIAMOND_BLOCK:1",
+      "A3": "",
+      "B1": "ENCHANTED_DIAMOND_BLOCK:1",
+      "B2": "PERFECT_LEGGINGS_11:1",
+      "B3": "ENCHANTED_DIAMOND_BLOCK:1",
+      "C1": "",
+      "C2": "ENCHANTED_DIAMOND_BLOCK:1",
+      "C3": ""
+   },
+   "internalname": "PERFECT_LEGGINGS_12",
+   "crafttext": ""
+}

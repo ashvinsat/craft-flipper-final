@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fPortal to the Deep Caverns",
+   "recipe": {
+      "A1": "REDSTONE_BLOCK:16",
+      "A2": "REDSTONE_BLOCK:16",
+      "A3": "REDSTONE_BLOCK:16",
+      "B1": "LAPIS_BLOCK:16",
+      "B2": "ENDER_PEARL:16",
+      "B3": "LAPIS_BLOCK:16",
+      "C1": "LAPIS_BLOCK:16",
+      "C2": "LAPIS_BLOCK:16",
+      "C3": "LAPIS_BLOCK:16"
+   },
+   "internalname": "MINING_2_PORTAL",
+   "crafttext": "Requires: Diamond III"
+}

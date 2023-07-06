@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Fire Veil Wand",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "LUMINO_FIBER:10",
+      "B1": "",
+      "B2": "SPELL_POWDER:10",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "FIRE_VEIL_WAND",
+   "crafttext": ""
+}

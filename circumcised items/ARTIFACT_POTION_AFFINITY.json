@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Potion Affinity Artifact",
+   "recipe": {
+      "A1": "ENCHANTED_NETHER_STALK:32",
+      "A2": "ENCHANTED_NETHER_STALK:32",
+      "A3": "ENCHANTED_NETHER_STALK:32",
+      "B1": "ENCHANTED_NETHER_STALK:32",
+      "B2": "RING_POTION_AFFINITY:1",
+      "B3": "ENCHANTED_NETHER_STALK:32",
+      "C1": "ENCHANTED_NETHER_STALK:32",
+      "C2": "ENCHANTED_NETHER_STALK:32",
+      "C3": "ENCHANTED_NETHER_STALK:32"
+   },
+   "internalname": "ARTIFACT_POTION_AFFINITY",
+   "crafttext": "Requires: Nether Wart IX"
+}

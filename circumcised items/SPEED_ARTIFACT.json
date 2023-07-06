@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Speed Artifact",
+   "recipe": {
+      "A1": "ENCHANTED_SUGAR_CANE:6",
+      "A2": "ENCHANTED_SUGAR_CANE:6",
+      "A3": "ENCHANTED_SUGAR_CANE:6",
+      "B1": "ENCHANTED_SUGAR_CANE:6",
+      "B2": "SPEED_RING:1",
+      "B3": "ENCHANTED_SUGAR_CANE:6",
+      "C1": "ENCHANTED_SUGAR_CANE:6",
+      "C2": "ENCHANTED_SUGAR_CANE:6",
+      "C3": "ENCHANTED_SUGAR_CANE:6"
+   },
+   "internalname": "SPEED_ARTIFACT",
+   "crafttext": "Requires: Sugar Cane VIII"
+}

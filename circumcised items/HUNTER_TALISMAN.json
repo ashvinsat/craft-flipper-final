@@ -1,0 +1,16 @@
+{
+   "internalname": "HUNTER_TALISMAN",
+   "displayname": "\u00a7aHunter Talisman",
+   "recipe": {
+      "A1": "GOLDEN_TOOTH:8",
+      "A2": "GOLDEN_TOOTH:8",
+      "A3": "GOLDEN_TOOTH:8",
+      "B1": "GOLDEN_TOOTH:8",
+      "B2": "ENCHANTED_ROTTEN_FLESH:32",
+      "B3": "GOLDEN_TOOTH:8",
+      "C1": "GOLDEN_TOOTH:8",
+      "C2": "GOLDEN_TOOTH:8",
+      "C3": "GOLDEN_TOOTH:8"
+   },
+   "crafttext": ""
+}

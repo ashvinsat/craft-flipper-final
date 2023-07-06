@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fSnow Block",
+   "internalname": "SNOW_BLOCK",
+   "recipe": {
+      "A1": "SNOW_BALL:1",
+      "A2": "SNOW_BALL:1",
+      "A3": "",
+      "B1": "SNOW_BALL:1",
+      "B2": "SNOW_BALL:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "crafttext": ""
+}

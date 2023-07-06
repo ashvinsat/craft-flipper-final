@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Enchanted Titanium",
+   "recipe": {
+      "A1": "",
+      "A2": "TITANIUM_ORE:32",
+      "A3": "",
+      "B1": "TITANIUM_ORE:32",
+      "B2": "TITANIUM_ORE:32",
+      "B3": "TITANIUM_ORE:32",
+      "C1": "",
+      "C2": "TITANIUM_ORE:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_TITANIUM",
+   "crafttext": ""
+}

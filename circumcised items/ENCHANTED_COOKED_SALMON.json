@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Cooked Salmon",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_RAW_SALMON:32",
+      "A3": "",
+      "B1": "ENCHANTED_RAW_SALMON:32",
+      "B2": "ENCHANTED_RAW_SALMON:32",
+      "B3": "ENCHANTED_RAW_SALMON:32",
+      "C1": "",
+      "C2": "ENCHANTED_RAW_SALMON:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_COOKED_SALMON",
+   "crafttext": "Requires: Raw Salmon VIII"
+}

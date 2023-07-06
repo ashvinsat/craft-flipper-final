@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Greater Backpack",
+   "recipe": {
+      "A1": "ENCHANTED_LEATHER:4",
+      "A2": "ENCHANTED_LEATHER:4",
+      "A3": "ENCHANTED_LEATHER:4",
+      "B1": "ENCHANTED_LEATHER:4",
+      "B2": "LARGE_BACKPACK:1",
+      "B3": "ENCHANTED_LEATHER:4",
+      "C1": "ENCHANTED_LEATHER:4",
+      "C2": "ENCHANTED_LEATHER:4",
+      "C3": "ENCHANTED_LEATHER:4"
+   },
+   "internalname": "GREATER_BACKPACK",
+   "crafttext": "Requires: Leather X"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Bone",
+   "recipe": {
+      "A1": "",
+      "A2": "BONE:32",
+      "A3": "",
+      "B1": "BONE:32",
+      "B2": "BONE:32",
+      "B3": "BONE:32",
+      "C1": "",
+      "C2": "BONE:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_BONE",
+   "crafttext": "Requires: Bone V"
+}

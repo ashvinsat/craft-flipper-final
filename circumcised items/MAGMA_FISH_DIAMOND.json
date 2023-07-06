@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7dDiamond Magmafish",
+   "recipe": {
+      "A1": "",
+      "A2": "MAGMA_FISH_GOLD:16",
+      "A3": "",
+      "B1": "MAGMA_FISH_GOLD:16",
+      "B2": "MAGMA_FISH_GOLD:16",
+      "B3": "MAGMA_FISH_GOLD:16",
+      "C1": "",
+      "C2": "MAGMA_FISH_GOLD:16",
+      "C3": ""
+   },
+   "internalname": "MAGMA_FISH_DIAMOND",
+   "crafttext": "Requires: Magmafish X"
+}

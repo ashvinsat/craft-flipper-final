@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Clay",
+   "recipe": {
+      "A1": "",
+      "A2": "CLAY_BALL:32",
+      "A3": "",
+      "B1": "CLAY_BALL:32",
+      "B2": "CLAY_BALL:32",
+      "B3": "CLAY_BALL:32",
+      "C1": "",
+      "C2": "CLAY_BALL:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_CLAY_BALL",
+   "crafttext": "Requires: Clay II"
+}

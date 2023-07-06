@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Sulphur",
+   "recipe": {
+      "A1": "",
+      "A2": "SULPHUR_ORE:32",
+      "A3": "",
+      "B1": "SULPHUR_ORE:32",
+      "B2": "SULPHUR_ORE:32",
+      "B3": "SULPHUR_ORE:32",
+      "C1": "",
+      "C2": "SULPHUR_ORE:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_SULPHUR",
+   "crafttext": "Requires: Sulphur II"
+}

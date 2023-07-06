@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Ice",
+   "recipe": {
+      "A1": "",
+      "A2": "ICE:32",
+      "A3": "",
+      "B1": "ICE:32",
+      "B2": "ICE:32",
+      "B3": "ICE:32",
+      "C1": "",
+      "C2": "ICE:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_ICE",
+   "crafttext": "Requires: Ice IV"
+}

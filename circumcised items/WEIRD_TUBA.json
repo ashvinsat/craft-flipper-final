@@ -1,0 +1,16 @@
+{
+   "internalname": "WEIRD_TUBA",
+   "displayname": "\u00a7f\u00a7f\u00a79Weird Tuba",
+   "recipe": {
+      "A1": "ENCHANTED_IRON:20",
+      "A2": "",
+      "A3": "ENCHANTED_IRON:20",
+      "B1": "ENCHANTED_IRON:20",
+      "B2": "GOLDEN_TOOTH:20",
+      "B3": "ENCHANTED_IRON:20",
+      "C1": "",
+      "C2": "ENCHANTED_IRON:20",
+      "C3": ""
+   },
+   "crafttext": ""
+}

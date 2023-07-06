@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Mineral Talisman",
+   "recipe": {
+      "A1": "REFINED_MINERAL:1",
+      "A2": "REFINED_MINERAL:1",
+      "A3": "REFINED_MINERAL:1",
+      "B1": "REFINED_MINERAL:1",
+      "B2": "REFINED_MINERAL:1",
+      "B3": "REFINED_MINERAL:1",
+      "C1": "REFINED_MINERAL:1",
+      "C2": "REFINED_MINERAL:1",
+      "C3": "REFINED_MINERAL:1"
+   },
+   "internalname": "MINERAL_TALISMAN",
+   "crafttext": ""
+}

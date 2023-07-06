@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fPortal to Mushroom Island",
+   "recipe": {
+      "A1": "INK_SACK-3:16",
+      "A2": "INK_SACK-3:16",
+      "A3": "INK_SACK-3:16",
+      "B1": "CACTUS:16",
+      "B2": "ENDER_PEARL:16",
+      "B3": "CACTUS:16",
+      "C1": "CACTUS:16",
+      "C2": "CACTUS:16",
+      "C3": "CACTUS:16"
+   },
+   "internalname": "FARMING_2_PORTAL",
+   "crafttext": "Requires: Cocoa Beans III"
+}

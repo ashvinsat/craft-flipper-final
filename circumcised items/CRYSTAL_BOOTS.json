@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a75Crystal Boots",
+   "recipe": {
+      "A1": "CRYSTAL_FRAGMENT:1",
+      "A2": "",
+      "A3": "CRYSTAL_FRAGMENT:1",
+      "B1": "CRYSTAL_FRAGMENT:1",
+      "B2": "",
+      "B3": "CRYSTAL_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "CRYSTAL_BOOTS"
+}

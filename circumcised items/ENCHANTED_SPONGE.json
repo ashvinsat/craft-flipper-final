@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Sponge",
+   "recipe": {
+      "A1": "",
+      "A2": "SPONGE:8",
+      "A3": "",
+      "B1": "SPONGE:8",
+      "B2": "SPONGE:8",
+      "B3": "SPONGE:8",
+      "C1": "",
+      "C2": "SPONGE:8",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_SPONGE",
+   "crafttext": "Requires: Sponge III"
+}

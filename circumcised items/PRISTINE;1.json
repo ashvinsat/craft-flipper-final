@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a7fEnchanted Book",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "PAPER:8",
+      "B3": "PAPER:8",
+      "C1": "",
+      "C2": "PAPER:8",
+      "C3": "FINE_TOPAZ_GEM:40"
+   },
+   "internalname": "PRISTINE;1",
+   "crafttext": "Requires Gemstone Collection VIII"
+}

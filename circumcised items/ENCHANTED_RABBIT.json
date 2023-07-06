@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a7aEnchanted Raw Rabbit",
+   "recipe": {
+      "A1": "",
+      "A2": "RABBIT:32",
+      "A3": "",
+      "B1": "RABBIT:32",
+      "B2": "RABBIT:32",
+      "B3": "RABBIT:32",
+      "C1": "",
+      "C2": "RABBIT:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_RABBIT"
+}

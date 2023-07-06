@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Omega Enchanted Egg",
+   "recipe": {
+      "A1": "SUPER_EGG:1",
+      "A2": "SUPER_EGG:1",
+      "A3": "SUPER_EGG:1",
+      "B1": "SUPER_EGG:1",
+      "B2": "SUPER_EGG:1",
+      "B3": "SUPER_EGG:1",
+      "C1": "SUPER_EGG:1",
+      "C2": "SUPER_EGG:1",
+      "C3": "SUPER_EGG:1"
+   },
+   "internalname": "OMEGA_EGG",
+   "crafttext": "Requires: Raw Chicken X"
+}

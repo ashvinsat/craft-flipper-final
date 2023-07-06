@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fPersonal Bank Item",
+   "recipe": {
+      "A1": "EMERALD:64",
+      "A2": "EMERALD:64",
+      "A3": "EMERALD:64",
+      "B1": "EMERALD:64",
+      "B2": "ENCHANTED_EMERALD:1",
+      "B3": "EMERALD:64",
+      "C1": "EMERALD:64",
+      "C2": "EMERALD:64",
+      "C3": "EMERALD:64"
+   },
+   "internalname": "PERSONAL_BANK_ITEM",
+   "crafttext": "Requires: Emerald VI"
+}

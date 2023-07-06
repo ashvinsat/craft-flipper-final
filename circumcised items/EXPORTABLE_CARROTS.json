@@ -1,0 +1,17 @@
+{
+   "displayname": "\u00a7aExportable Carrots",
+   "recipe": {
+      "A1": "",
+      "A2": "VOLT_CRUX:1",
+      "A3": "",
+      "B1": "",
+      "B2": "NEARLY_WHOLE_CARROT:2",
+      "B3": "",
+      "C1": "",
+      "C2": "SCRIBE_CRUX:1",
+      "C3": "",
+      "count": 64
+   },
+   "internalname": "EXPORTABLE_CARROTS",
+   "crafttext": "Requires: Half-Eaten Carrot III"
+}

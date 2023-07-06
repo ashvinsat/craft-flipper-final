@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Lava Shell Necklace",
+   "recipe": {
+      "A1": "LAVA_SHELL:1",
+      "A2": "LAVA_SHELL:1",
+      "A3": "LAVA_SHELL:1",
+      "B1": "LAVA_SHELL:1",
+      "B2": "GAZING_PEARL:5",
+      "B3": "LAVA_SHELL:1",
+      "C1": "LAVA_SHELL:1",
+      "C2": "LAVA_SHELL:1",
+      "C3": "LAVA_SHELL:1"
+   },
+   "internalname": "LAVA_SHELL_NECKLACE",
+   "crafttext": ""
+}

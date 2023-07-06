@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fRabbit Chestplate",
+   "recipe": {
+      "A1": "ENCHANTED_RABBIT_HIDE:5",
+      "A2": "",
+      "A3": "ENCHANTED_RABBIT_HIDE:5",
+      "B1": "ENCHANTED_RABBIT_HIDE:5",
+      "B2": "ENCHANTED_RABBIT_FOOT:10",
+      "B3": "ENCHANTED_RABBIT_HIDE:5",
+      "C1": "ENCHANTED_RABBIT_HIDE:5",
+      "C2": "ENCHANTED_RABBIT_FOOT:10",
+      "C3": "ENCHANTED_RABBIT_HIDE:5"
+   },
+   "internalname": "RABBIT_CHESTPLATE",
+   "crafttext": "Requires: Raw Rabbit IX"
+}

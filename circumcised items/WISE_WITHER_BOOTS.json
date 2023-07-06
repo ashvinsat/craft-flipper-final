@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Storm's Boots",
+   "recipe": {
+      "A1": "GIANT_FRAGMENT_LASER:1",
+      "A2": "GIANT_FRAGMENT_LASER:1",
+      "A3": "GIANT_FRAGMENT_LASER:1",
+      "B1": "GIANT_FRAGMENT_LASER:1",
+      "B2": "WITHER_BOOTS:1",
+      "B3": "GIANT_FRAGMENT_LASER:1",
+      "C1": "GIANT_FRAGMENT_LASER:1",
+      "C2": "GIANT_FRAGMENT_LASER:1",
+      "C3": "GIANT_FRAGMENT_LASER:1"
+   },
+   "internalname": "WISE_WITHER_BOOTS",
+   "crafttext": ""
+}

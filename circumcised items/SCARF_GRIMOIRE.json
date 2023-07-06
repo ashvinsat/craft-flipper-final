@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a76Scarf's Grimoire",
+   "recipe": {
+      "A1": "SCARF_THESIS:1",
+      "A2": "SCARF_THESIS:1",
+      "A3": "",
+      "B1": "SCARF_THESIS:1",
+      "B2": "SCARF_THESIS:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SCARF_GRIMOIRE",
+   "crafttext": ""
+}

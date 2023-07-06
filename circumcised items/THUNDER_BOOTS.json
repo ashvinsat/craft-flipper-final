@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Thunder Boots",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "THUNDER_SHARDS:1",
+      "B2": "",
+      "B3": "THUNDER_SHARDS:1",
+      "C1": "THUNDER_SHARDS:1",
+      "C2": "",
+      "C3": "THUNDER_SHARDS:1"
+   },
+   "internalname": "THUNDER_BOOTS",
+   "crafttext": ""
+}

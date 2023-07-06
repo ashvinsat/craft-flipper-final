@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aGrand Experience Bottle",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_LAPIS_LAZULI:1",
+      "A3": "",
+      "B1": "ENCHANTED_LAPIS_LAZULI:1",
+      "B2": "GLASS_BOTTLE:1",
+      "B3": "ENCHANTED_LAPIS_LAZULI:1",
+      "C1": "ENCHANTED_LAPIS_LAZULI:1",
+      "C2": "ENCHANTED_LAPIS_LAZULI:1",
+      "C3": "ENCHANTED_LAPIS_LAZULI:1"
+   },
+   "internalname": "GRAND_EXP_BOTTLE",
+   "crafttext": "Requires: Lapis Lazuli V"
+}

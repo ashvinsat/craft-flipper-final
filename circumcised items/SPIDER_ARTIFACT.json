@@ -1,0 +1,16 @@
+{
+   "internalname": "SPIDER_ARTIFACT",
+   "displayname": "\u00a75Spider Artifact",
+   "recipe": {
+      "A1": "ENCHANTED_EMERALD:8",
+      "A2": "TARANTULA_SILK:8",
+      "A3": "ENCHANTED_EMERALD:8",
+      "B1": "TARANTULA_SILK:8",
+      "B2": "SPIDER_RING:1",
+      "B3": "TARANTULA_SILK:8",
+      "C1": "ENCHANTED_EMERALD:8",
+      "C2": "TARANTULA_SILK:8",
+      "C3": "ENCHANTED_EMERALD:8"
+   },
+   "crafttext": ""
+}

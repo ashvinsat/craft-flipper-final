@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aMiner's Outfit Helmet",
+   "recipe": {
+      "A1": "ENCHANTED_COBBLESTONE:1",
+      "A2": "ENCHANTED_COBBLESTONE:1",
+      "A3": "ENCHANTED_COBBLESTONE:1",
+      "B1": "ENCHANTED_COBBLESTONE:1",
+      "B2": "",
+      "B3": "ENCHANTED_COBBLESTONE:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "MINER_OUTFIT_HELMET",
+   "crafttext": "Requires: Cobblestone VII"
+}

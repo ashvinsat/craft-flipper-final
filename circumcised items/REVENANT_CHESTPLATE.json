@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Revenant Chestplate",
+   "recipe": {
+      "A1": "ENCHANTED_DIAMOND:32",
+      "A2": "",
+      "A3": "ENCHANTED_DIAMOND:32",
+      "B1": "ENCHANTED_DIAMOND:32",
+      "B2": "ZOMBIE_CHESTPLATE:1",
+      "B3": "ENCHANTED_DIAMOND:32",
+      "C1": "REVENANT_VISCERA:1",
+      "C2": "REVENANT_VISCERA:1",
+      "C3": "REVENANT_VISCERA:1"
+   },
+   "internalname": "REVENANT_CHESTPLATE",
+   "crafttext": ""
+}

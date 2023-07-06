@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aDiamond Sword",
+   "internalname": "DIAMOND_SWORD",
+   "crafttext": "",
+   "recipe": {
+      "A1": "DIAMOND:1",
+      "A2": "",
+      "A3": "",
+      "B1": "DIAMOND:1",
+      "B2": "",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+   }
+}

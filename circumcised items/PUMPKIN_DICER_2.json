@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Pumpkin Dicer 2.0",
+   "recipe": {
+      "A1": "POLISHED_PUMPKIN:2",
+      "A2": "POLISHED_PUMPKIN:2",
+      "A3": "POLISHED_PUMPKIN:2",
+      "B1": "POLISHED_PUMPKIN:2",
+      "B2": "PUMPKIN_DICER:1",
+      "B3": "POLISHED_PUMPKIN:2",
+      "C1": "POLISHED_PUMPKIN:2",
+      "C2": "POLISHED_PUMPKIN:2",
+      "C3": "POLISHED_PUMPKIN:2"
+   },
+   "internalname": "PUMPKIN_DICER_2",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Hard Stone",
+   "recipe": {
+      "A1": "HARD_STONE:64",
+      "A2": "HARD_STONE:64",
+      "A3": "HARD_STONE:64",
+      "B1": "HARD_STONE:64",
+      "B2": "HARD_STONE:64",
+      "B3": "HARD_STONE:64",
+      "C1": "HARD_STONE:64",
+      "C2": "HARD_STONE:64",
+      "C3": "HARD_STONE:64"
+   },
+   "internalname": "ENCHANTED_HARD_STONE",
+   "crafttext": "Requires Hard Stone Collection III"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Chestplate of Growth",
+   "recipe": {
+      "A1": "ENCHANTED_DARK_OAK_LOG:64",
+      "A2": "",
+      "A3": "ENCHANTED_DARK_OAK_LOG:64",
+      "B1": "ENCHANTED_DARK_OAK_LOG:64",
+      "B2": "ENCHANTED_DARK_OAK_LOG:64",
+      "B3": "ENCHANTED_DARK_OAK_LOG:64",
+      "C1": "ENCHANTED_DARK_OAK_LOG:64",
+      "C2": "ENCHANTED_DARK_OAK_LOG:64",
+      "C3": "ENCHANTED_DARK_OAK_LOG:64"
+   },
+   "internalname": "GROWTH_CHESTPLATE",
+   "crafttext": "Requires: Dark Oak Wood IX"
+}

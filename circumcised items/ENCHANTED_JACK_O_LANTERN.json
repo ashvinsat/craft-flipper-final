@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aLantern Helmet",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_PUMPKIN:32",
+      "A3": "",
+      "B1": "ENCHANTED_PUMPKIN:32",
+      "B2": "ENCHANTED_PUMPKIN:32",
+      "B3": "ENCHANTED_PUMPKIN:32",
+      "C1": "",
+      "C2": "TORCH:1",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_JACK_O_LANTERN",
+   "crafttext": "Requires: Pumpkin VII"
+}

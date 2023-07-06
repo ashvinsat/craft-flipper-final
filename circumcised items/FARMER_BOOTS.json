@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aFarmer Boots",
+   "recipe": {
+      "A1": "ENCHANTED_PUMPKIN:64",
+      "A2": "",
+      "A3": "ENCHANTED_PUMPKIN:64",
+      "B1": "ENCHANTED_PUMPKIN:64",
+      "B2": "",
+      "B3": "ENCHANTED_PUMPKIN:64",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "FARMER_BOOTS",
+   "crafttext": "Requires: Pumpkin IX"
+}

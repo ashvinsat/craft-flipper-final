@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aHot Bait",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "BLAZE_ASHES:1",
+      "B2": "MAGMA_FISH:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "HOT_BAIT",
+   "crafttext": "Requires: Magmafish II"
+}

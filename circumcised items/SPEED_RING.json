@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aSpeed Ring",
+   "recipe": {
+      "A1": "ENCHANTED_SUGAR:12",
+      "A2": "ENCHANTED_SUGAR:12",
+      "A3": "ENCHANTED_SUGAR:12",
+      "B1": "ENCHANTED_SUGAR:12",
+      "B2": "SPEED_TALISMAN:1",
+      "B3": "ENCHANTED_SUGAR:12",
+      "C1": "ENCHANTED_SUGAR:12",
+      "C2": "ENCHANTED_SUGAR:12",
+      "C3": "ENCHANTED_SUGAR:12"
+   },
+   "internalname": "SPEED_RING",
+   "crafttext": "Requires: Sugar Cane V"
+}

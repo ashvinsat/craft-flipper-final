@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEmpty Chumcap Bucket",
+   "recipe": {
+      "A1": "AGARICUS_CHUM_CAP:1",
+      "A2": "AGARICUS_CHUM_CAP:1",
+      "A3": "AGARICUS_CHUM_CAP:1",
+      "B1": "AGARICUS_CHUM_CAP:1",
+      "B2": "EMPTY_CHUM_BUCKET:1",
+      "B3": "AGARICUS_CHUM_CAP:1",
+      "C1": "AGARICUS_CHUM_CAP:1",
+      "C2": "AGARICUS_CHUM_CAP:1",
+      "C3": "AGARICUS_CHUM_CAP:1"
+   },
+   "internalname": "EMPTY_CHUMCAP_BUCKET",
+   "crafttext": ""
+}

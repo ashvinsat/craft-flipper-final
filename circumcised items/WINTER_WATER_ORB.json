@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Winter Water Orb",
+   "recipe": {
+      "A1": "ICE_HUNK:32",
+      "A2": "ENCHANTED_SNOW_BLOCK:64",
+      "A3": "ICE_HUNK:32",
+      "B1": "WHITE_GIFT:64",
+      "B2": "WATER_ORB:1",
+      "B3": "GREEN_GIFT:16",
+      "C1": "ICE_HUNK:32",
+      "C2": "BLUE_ICE_HUNK:32",
+      "C3": "ICE_HUNK:32"
+   },
+   "internalname": "WINTER_WATER_ORB",
+   "crafttext": ""
+}

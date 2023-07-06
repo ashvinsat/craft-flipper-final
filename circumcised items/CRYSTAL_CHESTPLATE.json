@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a75Crystal Chestplate",
+   "recipe": {
+      "A1": "CRYSTAL_FRAGMENT:1",
+      "A2": "",
+      "A3": "CRYSTAL_FRAGMENT:1",
+      "B1": "CRYSTAL_FRAGMENT:1",
+      "B2": "CRYSTAL_FRAGMENT:1",
+      "B3": "CRYSTAL_FRAGMENT:1",
+      "C1": "CRYSTAL_FRAGMENT:1",
+      "C2": "CRYSTAL_FRAGMENT:1",
+      "C3": "CRYSTAL_FRAGMENT:1"
+   },
+   "internalname": "CRYSTAL_CHESTPLATE"
+}

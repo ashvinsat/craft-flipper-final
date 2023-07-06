@@ -1,0 +1,16 @@
+{
+   "internalname": "EDIBLE_MACE",
+   "displayname": "\u00a79Edible Mace",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_MUTTON:9",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_MUTTON:9",
+      "B3": "",
+      "C1": "",
+      "C2": "GOLDEN_TOOTH:18",
+      "C3": ""
+   },
+   "crafttext": ""
+}

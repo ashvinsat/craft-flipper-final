@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Super Compactor 3000",
+   "recipe": {
+      "A1": "ENCHANTED_COBBLESTONE:64",
+      "A2": "ENCHANTED_COBBLESTONE:64",
+      "A3": "ENCHANTED_COBBLESTONE:64",
+      "B1": "ENCHANTED_COBBLESTONE:64",
+      "B2": "",
+      "B3": "ENCHANTED_COBBLESTONE:64",
+      "C1": "ENCHANTED_COBBLESTONE:64",
+      "C2": "ENCHANTED_REDSTONE_BLOCK:1",
+      "C3": "ENCHANTED_COBBLESTONE:64"
+   },
+   "internalname": "SUPER_COMPACTOR_3000",
+   "crafttext": "Requires: Cobblestone X"
+}

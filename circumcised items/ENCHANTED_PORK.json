@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Pork",
+   "recipe": {
+      "A1": "",
+      "A2": "PORK:32",
+      "A3": "",
+      "B1": "PORK:32",
+      "B2": "PORK:32",
+      "B3": "PORK:32",
+      "C1": "",
+      "C2": "PORK:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_PORK",
+   "crafttext": "Requires: Raw Porkchop IV"
+}

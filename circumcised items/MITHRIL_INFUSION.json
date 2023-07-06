@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aMithril Infusion",
+   "recipe": {
+      "A1": "ENCHANTED_MITHRIL:64",
+      "A2": "ENCHANTED_MITHRIL:64",
+      "A3": "ENCHANTED_MITHRIL:64",
+      "B1": "ENCHANTED_MITHRIL:64",
+      "B2": "MAGMA_BUCKET:1",
+      "B3": "ENCHANTED_MITHRIL:64",
+      "C1": "ENCHANTED_MITHRIL:64",
+      "C2": "ENCHANTED_MITHRIL:64",
+      "C3": "ENCHANTED_MITHRIL:64"
+   },
+   "internalname": "MITHRIL_INFUSION",
+   "crafttext": "Requires: Mithril VIII"
+}

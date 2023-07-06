@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75\u2618 \u00a75Flawless Jade Gemstone",
+   "recipe": {
+      "A1": "",
+      "A2": "FINE_JADE_GEM:16",
+      "A3": "",
+      "B1": "FINE_JADE_GEM:16",
+      "B2": "FINE_JADE_GEM:16",
+      "B3": "FINE_JADE_GEM:16",
+      "C1": "",
+      "C2": "FINE_JADE_GEM:16",
+      "C3": ""
+   },
+   "internalname": "FLAWLESS_JADE_GEM",
+   "crafttext": "Requires Gemstone Collection IX"
+}

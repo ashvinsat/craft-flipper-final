@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fMelon Block",
+   "internalname": "MELON_BLOCK",
+   "recipe": {
+      "A1": "MELON:1",
+      "A2": "MELON:1",
+      "A3": "MELON:1",
+      "B1": "MELON:1",
+      "B2": "MELON:1",
+      "B3": "MELON:1",
+      "C1": "MELON:1",
+      "C2": "MELON:1",
+      "C3": "MELON:1"
+   },
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Nutcracker Helmet",
+   "recipe": {
+      "A1": "WALNUT:3",
+      "A2": "WALNUT:3",
+      "A3": "WALNUT:3",
+      "B1": "WALNUT:3",
+      "B2": "SNOW_SUIT_HELMET:1",
+      "B3": "WALNUT:3",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "NUTCRACKER_HELMET",
+   "crafttext": ""
+}

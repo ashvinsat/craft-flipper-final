@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aPulse Ring",
+   "recipe": {
+      "A1": "ORB_OF_ENERGY:32",
+      "A2": "ORB_OF_ENERGY:32",
+      "A3": "ORB_OF_ENERGY:32",
+      "B1": "ORB_OF_ENERGY:32",
+      "B2": "",
+      "B3": "ORB_OF_ENERGY:32",
+      "C1": "ORB_OF_ENERGY:32",
+      "C2": "ORB_OF_ENERGY:32",
+      "C3": "ORB_OF_ENERGY:32"
+   },
+   "internalname": "PULSE_RING",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fSpeed Talisman",
+   "recipe": {
+      "A1": "SUGAR_CANE:12",
+      "A2": "SUGAR_CANE:12",
+      "A3": "SUGAR_CANE:12",
+      "B1": "SUGAR_CANE:12",
+      "B2": "SUGAR_CANE:12",
+      "B3": "SUGAR_CANE:12",
+      "C1": "SUGAR_CANE:12",
+      "C2": "SUGAR_CANE:12",
+      "C3": "SUGAR_CANE:12"
+   },
+   "internalname": "SPEED_TALISMAN",
+   "crafttext": "Requires: Sugar Cane II"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Strong Dragon Boots",
+   "recipe": {
+      "A1": "STRONG_FRAGMENT:10",
+      "A2": "",
+      "A3": "STRONG_FRAGMENT:10",
+      "B1": "STRONG_FRAGMENT:10",
+      "B2": "",
+      "B3": "STRONG_FRAGMENT:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "STRONG_DRAGON_BOOTS",
+   "crafttext": ""
+}

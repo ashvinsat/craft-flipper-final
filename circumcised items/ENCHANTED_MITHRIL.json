@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Mithril",
+   "recipe": {
+      "A1": "",
+      "A2": "MITHRIL_ORE:32",
+      "A3": "",
+      "B1": "MITHRIL_ORE:32",
+      "B2": "MITHRIL_ORE:32",
+      "B3": "MITHRIL_ORE:32",
+      "C1": "",
+      "C2": "MITHRIL_ORE:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_MITHRIL",
+   "crafttext": "Requires: Mithril III"
+}

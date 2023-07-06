@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Rotten Flesh",
+   "recipe": {
+      "A1": "",
+      "A2": "ROTTEN_FLESH:32",
+      "A3": "",
+      "B1": "ROTTEN_FLESH:32",
+      "B2": "ROTTEN_FLESH:32",
+      "B3": "ROTTEN_FLESH:32",
+      "C1": "",
+      "C2": "ROTTEN_FLESH:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_ROTTEN_FLESH",
+   "crafttext": "Requires: Rotten Flesh IV"
+}

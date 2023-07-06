@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Fel Sword",
+   "recipe": {
+      "A1": "",
+      "A2": "FEL_PEARL:16",
+      "A3": "",
+      "B1": "",
+      "B2": "FEL_PEARL:16",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+   },
+   "internalname": "FEL_SWORD",
+   "crafttext": ""
+}

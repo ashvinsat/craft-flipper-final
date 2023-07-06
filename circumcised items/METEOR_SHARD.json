@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Meteor Shard",
+   "recipe": {
+      "A1": "SILVER_FANG:10",
+      "A2": "STARFALL:5",
+      "A3": "SILVER_FANG:10",
+      "B1": "STARFALL:5",
+      "B2": "TENTACLE_MEAT:10",
+      "B3": "STARFALL:5",
+      "C1": "SILVER_FANG:10",
+      "C2": "STARFALL:5",
+      "C3": "SILVER_FANG:10"
+   },
+   "internalname": "METEOR_SHARD",
+   "crafttext": ""
+}

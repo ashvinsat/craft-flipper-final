@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Fire Fury Staff",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "COMPACT_OOZE:20",
+      "B1": "",
+      "B2": "REKINDLED_EMBER_FRAGMENT:20",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "FIRE_FURY_STAFF",
+   "crafttext": ""
+}

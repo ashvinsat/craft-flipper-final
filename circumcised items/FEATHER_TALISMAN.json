@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a7fFeather Talisman",
+   "recipe": {
+      "A1": "FEATHER:12",
+      "A2": "FEATHER:12",
+      "A3": "FEATHER:12",
+      "B1": "FEATHER:12",
+      "B2": "FEATHER:12",
+      "B3": "FEATHER:12",
+      "C1": "FEATHER:12",
+      "C2": "FEATHER:12",
+      "C3": "FEATHER:12"
+   },
+   "internalname": "FEATHER_TALISMAN",
+   "crafttext": "Requires: Feather IV"
+}

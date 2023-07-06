@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Glistering Melon",
+   "recipe": {
+      "A1": "SPECKLED_MELON:32",
+      "A2": "SPECKLED_MELON:32",
+      "A3": "SPECKLED_MELON:32",
+      "B1": "SPECKLED_MELON:32",
+      "B2": "",
+      "B3": "SPECKLED_MELON:32",
+      "C1": "SPECKLED_MELON:32",
+      "C2": "SPECKLED_MELON:32",
+      "C3": "SPECKLED_MELON:32"
+   },
+   "internalname": "ENCHANTED_GLISTERING_MELON",
+   "crafttext": "Requires: Melon V"
+}

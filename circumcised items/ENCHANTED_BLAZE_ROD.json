@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Blaze Rod",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_BLAZE_POWDER:32",
+      "A3": "",
+      "B1": "ENCHANTED_BLAZE_POWDER:32",
+      "B2": "ENCHANTED_BLAZE_POWDER:32",
+      "B3": "ENCHANTED_BLAZE_POWDER:32",
+      "C1": "",
+      "C2": "ENCHANTED_BLAZE_POWDER:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_BLAZE_ROD",
+   "crafttext": "Requires: Blaze Rod VII"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Wise Dragon Leggings",
+   "recipe": {
+      "A1": "WISE_FRAGMENT:10",
+      "A2": "WISE_FRAGMENT:10",
+      "A3": "WISE_FRAGMENT:10",
+      "B1": "WISE_FRAGMENT:10",
+      "B2": "",
+      "B3": "WISE_FRAGMENT:10",
+      "C1": "WISE_FRAGMENT:10",
+      "C2": "",
+      "C3": "WISE_FRAGMENT:10"
+   },
+   "internalname": "WISE_DRAGON_LEGGINGS",
+   "crafttext": ""
+}

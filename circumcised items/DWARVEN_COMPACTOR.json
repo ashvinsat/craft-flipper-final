@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Dwarven Super Compactor",
+   "recipe": {
+      "A1": "ENCHANTED_MITHRIL:8",
+      "A2": "AUTO_SMELTER:1",
+      "A3": "ENCHANTED_MITHRIL:8",
+      "B1": "ENCHANTED_MITHRIL:8",
+      "B2": "SUPER_COMPACTOR_3000:1",
+      "B3": "ENCHANTED_MITHRIL:8",
+      "C1": "ENCHANTED_MITHRIL:8",
+      "C2": "ENCHANTED_MITHRIL:8",
+      "C3": "ENCHANTED_MITHRIL:8"
+   },
+   "internalname": "DWARVEN_COMPACTOR",
+   "crafttext": ""
+}

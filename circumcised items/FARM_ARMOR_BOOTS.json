@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Farm Armor Boots",
+   "recipe": {
+      "A1": "ENCHANTED_HAY_BLOCK:1",
+      "A2": "",
+      "A3": "ENCHANTED_HAY_BLOCK:1",
+      "B1": "ENCHANTED_HAY_BLOCK:1",
+      "B2": "",
+      "B3": "ENCHANTED_HAY_BLOCK:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "FARM_ARMOR_BOOTS",
+   "crafttext": "Requires: Wheat IX"
+}

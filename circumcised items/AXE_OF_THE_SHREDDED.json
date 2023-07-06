@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Axe of the Shredded",
+   "recipe": {
+      "A1": "REVENANT_VISCERA:64",
+      "A2": "SHARD_OF_THE_SHREDDED:1",
+      "A3": "REVENANT_VISCERA:64",
+      "B1": "SHARD_OF_THE_SHREDDED:1",
+      "B2": "REAPER_SWORD:1",
+      "B3": "SHARD_OF_THE_SHREDDED:1",
+      "C1": "REVENANT_VISCERA:64",
+      "C2": "SHARD_OF_THE_SHREDDED:1",
+      "C3": "REVENANT_VISCERA:64"
+   },
+   "internalname": "AXE_OF_THE_SHREDDED",
+   "crafttext": ""
+}

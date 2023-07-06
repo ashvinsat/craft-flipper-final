@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Dragonfade Cloak",
+   "recipe": {
+      "A1": "RITUAL_RESIDUE:1",
+      "A2": "RITUAL_RESIDUE:1",
+      "A3": "RITUAL_RESIDUE:1",
+      "B1": "MITE_GEL:16",
+      "B2": "ABSOLUTE_ENDER_PEARL:16",
+      "B3": "MITE_GEL:16",
+      "C1": "MITE_GEL:16",
+      "C2": "ABSOLUTE_ENDER_PEARL:16",
+      "C3": "MITE_GEL:16"
+   },
+   "internalname": "DRAGONFADE_CLOAK",
+   "crafttext": ""
+}

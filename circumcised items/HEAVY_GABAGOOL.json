@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Heavy Gabagool",
+   "recipe": {
+      "A1": "FUEL_GABAGOOL:3",
+      "A2": "FUEL_GABAGOOL:3",
+      "A3": "FUEL_GABAGOOL:3",
+      "B1": "FUEL_GABAGOOL:3",
+      "B2": "SULPHURIC_COAL:1",
+      "B3": "FUEL_GABAGOOL:3",
+      "C1": "FUEL_GABAGOOL:3",
+      "C2": "FUEL_GABAGOOL:3",
+      "C3": "FUEL_GABAGOOL:3"
+   },
+   "internalname": "HEAVY_GABAGOOL",
+   "crafttext": ""
+}

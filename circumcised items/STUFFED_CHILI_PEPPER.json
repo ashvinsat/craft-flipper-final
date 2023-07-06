@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Stuffed Chili Pepper",
+   "recipe": {
+      "A1": "",
+      "A2": "CHILI_PEPPER:32",
+      "A3": "",
+      "B1": "CHILI_PEPPER:32",
+      "B2": "CHILI_PEPPER:32",
+      "B3": "CHILI_PEPPER:32",
+      "C1": "",
+      "C2": "CHILI_PEPPER:32",
+      "C3": ""
+   },
+   "internalname": "STUFFED_CHILI_PEPPER",
+   "crafttext": "Requires: Chili Pepper VI"
+}

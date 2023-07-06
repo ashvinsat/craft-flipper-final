@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7a\u2727 \u00a7aFlawed Topaz Gemstone",
+   "recipe": {
+      "A1": "",
+      "A2": "ROUGH_TOPAZ_GEM:16",
+      "A3": "",
+      "B1": "ROUGH_TOPAZ_GEM:16",
+      "B2": "ROUGH_TOPAZ_GEM:16",
+      "B3": "ROUGH_TOPAZ_GEM:16",
+      "C1": "",
+      "C2": "ROUGH_TOPAZ_GEM:16",
+      "C3": ""
+   },
+   "internalname": "FLAWED_TOPAZ_GEM",
+   "crafttext": "Requires Gemstone Collection II"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fEnchanted Book",
+   "recipe": {
+      "A1": "CHILI_PEPPER:16",
+      "A2": "KUUDRA_TEETH:1",
+      "A3": "CHILI_PEPPER:16",
+      "B1": "",
+      "B2": "KUUDRA_TEETH:1",
+      "B3": "",
+      "C1": "",
+      "C2": "KUUDRA_TEETH:1",
+      "C3": ""
+   },
+   "internalname": "TABASCO;2",
+   "crafttext": "Requires: Chili Pepper IX"
+}

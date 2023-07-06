@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Sugar Cane",
+   "recipe": {
+      "A1": "ENCHANTED_SUGAR:32",
+      "A2": "ENCHANTED_SUGAR:32",
+      "A3": "ENCHANTED_SUGAR:32",
+      "B1": "ENCHANTED_SUGAR:32",
+      "B2": "ENCHANTED_SUGAR:32",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_SUGAR_CANE",
+   "crafttext": "Requires: Sugar Cane VIII"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a75Ember Helmet",
+   "recipe": {
+      "A1": "EMBER_FRAGMENT:1",
+      "A2": "EMBER_FRAGMENT:1",
+      "A3": "EMBER_FRAGMENT:1",
+      "B1": "EMBER_FRAGMENT:1",
+      "B2": "",
+      "B3": "EMBER_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "EMBER_HELMET",
+   "crafttext": ""
+}

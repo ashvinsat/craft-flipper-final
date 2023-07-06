@@ -1,0 +1,16 @@
+{
+   "internalname": "TARANTULA_CHESTPLATE",
+   "displayname": "\u00a75Tarantula Chestplate",
+   "recipe": {
+      "A1": "ENCHANTED_IRON:64",
+      "A2": "",
+      "A3": "ENCHANTED_IRON:64",
+      "B1": "ENCHANTED_IRON:64",
+      "B2": "TARANTULA_SILK:1",
+      "B3": "ENCHANTED_IRON:64",
+      "C1": "TARANTULA_SILK:1",
+      "C2": "TARANTULA_SILK:1",
+      "C3": "TARANTULA_SILK:1"
+   },
+   "crafttext": ""
+}

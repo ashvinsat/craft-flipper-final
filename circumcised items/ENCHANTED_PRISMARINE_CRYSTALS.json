@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Prismarine Crystals",
+   "recipe": {
+      "A1": "",
+      "A2": "PRISMARINE_CRYSTALS:16",
+      "A3": "",
+      "B1": "PRISMARINE_CRYSTALS:16",
+      "B2": "PRISMARINE_CRYSTALS:16",
+      "B3": "PRISMARINE_CRYSTALS:16",
+      "C1": "",
+      "C2": "PRISMARINE_CRYSTALS:16",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_PRISMARINE_CRYSTALS",
+   "crafttext": "Requires: Prismarine Crystals III"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Flint",
+   "recipe": {
+      "A1": "",
+      "A2": "FLINT:32",
+      "A3": "",
+      "B1": "FLINT:32",
+      "B2": "FLINT:32",
+      "B3": "FLINT:32",
+      "C1": "",
+      "C2": "FLINT:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_FLINT",
+   "crafttext": "Requires: Gravel V"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75X-Large Storage",
+   "recipe": {
+      "A1": "",
+      "A2": "MINION_STORAGE_EXPANDER:1",
+      "A3": "",
+      "B1": "",
+      "B2": "LARGE_ENCHANTED_CHEST:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "XLARGE_ENCHANTED_CHEST",
+   "crafttext": ""
+}

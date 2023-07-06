@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Implosion Belt",
+   "recipe": {
+      "A1": "MATCH_STICKS:32",
+      "A2": "ENCHANTED_SULPHUR_CUBE:1",
+      "A3": "MATCH_STICKS:32",
+      "B1": "ENCHANTED_SULPHUR_CUBE:1",
+      "B2": "",
+      "B3": "ENCHANTED_SULPHUR_CUBE:1",
+      "C1": "MATCH_STICKS:32",
+      "C2": "ENCHANTED_SULPHUR_CUBE:1",
+      "C3": "MATCH_STICKS:32"
+   },
+   "internalname": "IMPLOSION_BELT",
+   "crafttext": "Requires: Sulphur IX"
+}

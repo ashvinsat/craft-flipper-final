@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fRoofed Forest Island",
+   "recipe": {
+      "A1": "LOG_2-1:5",
+      "A2": "LOG_2-1:5",
+      "A3": "LOG_2-1:5",
+      "B1": "DIRT:5",
+      "B2": "DIRT:5",
+      "B3": "DIRT:5",
+      "C1": "DIRT:5",
+      "C2": "DIRT:5",
+      "C3": "DIRT:5"
+   },
+   "internalname": "ROOFED_FOREST_ISLAND",
+   "crafttext": "Requires: Dark Oak Wood VI"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fCropie Talisman",
+   "recipe": {
+      "A1": "CROPIE:32",
+      "A2": "CROPIE:32",
+      "A3": "CROPIE:32",
+      "B1": "CROPIE:32",
+      "B2": "",
+      "B3": "CROPIE:32",
+      "C1": "CROPIE:32",
+      "C2": "CROPIE:32",
+      "C3": "CROPIE:32"
+   },
+   "internalname": "CROPIE_TALISMAN",
+   "crafttext": ""
+}

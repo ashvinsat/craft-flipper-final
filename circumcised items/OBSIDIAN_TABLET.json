@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Obsidian Tablet",
+   "recipe": {
+      "A1": "ENCHANTED_OBSIDIAN:24",
+      "A2": "ENCHANTED_OBSIDIAN:24",
+      "A3": "ENCHANTED_OBSIDIAN:24",
+      "B1": "ENCHANTED_OBSIDIAN:24",
+      "B2": "SUMMONING_EYE:1",
+      "B3": "ENCHANTED_OBSIDIAN:24",
+      "C1": "ENCHANTED_OBSIDIAN:24",
+      "C2": "ENCHANTED_OBSIDIAN:24",
+      "C3": "ENCHANTED_OBSIDIAN:24"
+   },
+   "internalname": "OBSIDIAN_TABLET",
+   "crafttext": "Requires: Obisidan XI"
+}

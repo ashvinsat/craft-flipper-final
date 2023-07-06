@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Sea Creature Artifact",
+   "recipe": {
+      "A1": "ENCHANTED_SPONGE:8",
+      "A2": "ENCHANTED_SPONGE:8",
+      "A3": "ENCHANTED_SPONGE:8",
+      "B1": "ENCHANTED_SPONGE:8",
+      "B2": "SEA_CREATURE_RING:1",
+      "B3": "ENCHANTED_SPONGE:8",
+      "C1": "ENCHANTED_SPONGE:8",
+      "C2": "ENCHANTED_SPONGE:8",
+      "C3": "ENCHANTED_SPONGE:8"
+   },
+   "internalname": "SEA_CREATURE_ARTIFACT",
+   "crafttext": "Requires: Sponge VIII"
+}

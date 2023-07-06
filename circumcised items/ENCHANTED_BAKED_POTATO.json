@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Baked Potato",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_POTATO:32",
+      "A3": "",
+      "B1": "ENCHANTED_POTATO:32",
+      "B2": "ENCHANTED_POTATO:32",
+      "B3": "ENCHANTED_POTATO:32",
+      "C1": "",
+      "C2": "ENCHANTED_POTATO:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_BAKED_POTATO",
+   "crafttext": "Requires: Potato VII"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Lesser Soulflow Engine",
+   "recipe": {
+      "A1": "NULL_OVOID:1",
+      "A2": "NULL_OVOID:1",
+      "A3": "NULL_OVOID:1",
+      "B1": "ENCHANTED_EYE_OF_ENDER:24",
+      "B2": "ENCHANTED_IRON_BLOCK:8",
+      "B3": "ENCHANTED_EYE_OF_ENDER:24",
+      "C1": "NULL_OVOID:1",
+      "C2": "NULL_OVOID:1",
+      "C3": "NULL_OVOID:1"
+   },
+   "internalname": "LESSER_SOULFLOW_ENGINE",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Slime Bow",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SLIME_BLOCK:5",
+      "A3": "ENCHANTED_STRING:1",
+      "B1": "ENCHANTED_SLIME_BLOCK:5",
+      "B2": "",
+      "B3": "ENCHANTED_STRING:1",
+      "C1": "",
+      "C2": "ENCHANTED_SLIME_BLOCK:5",
+      "C3": "ENCHANTED_STRING:1"
+   },
+   "internalname": "SLIME_BOW",
+   "crafttext": "Requires: Slimeball IX"
+}

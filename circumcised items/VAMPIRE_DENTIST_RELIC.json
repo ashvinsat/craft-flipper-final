@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a76Vampire Dentist Relic",
+   "recipe": {
+      "A1": "BLOODBADGE:1",
+      "A2": "BLOODBADGE:1",
+      "A3": "BLOODBADGE:1",
+      "B1": "BLOODBADGE:1",
+      "B2": "UNFANGED_VAMPIRE_PART:1",
+      "B3": "BLOODBADGE:1",
+      "C1": "BLOODBADGE:1",
+      "C2": "BLOODBADGE:1",
+      "C3": "BLOODBADGE:1"
+   },
+   "internalname": "VAMPIRE_DENTIST_RELIC",
+   "crafttext": ""
+}

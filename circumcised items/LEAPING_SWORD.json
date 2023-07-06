@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Leaping Sword",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_FERMENTED_SPIDER_EYE:12",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_FERMENTED_SPIDER_EYE:12",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+   },
+   "internalname": "LEAPING_SWORD",
+   "crafttext": "Requires: Spider Eye IX"
+}

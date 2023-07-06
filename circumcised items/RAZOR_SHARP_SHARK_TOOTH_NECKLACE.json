@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Razor-sharp Shark Tooth Necklace",
+   "recipe": {
+      "A1": "",
+      "A2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "A3": "",
+      "B1": "GREAT_WHITE_SHARK_TOOTH:1",
+      "B2": "SHARP_SHARK_TOOTH_NECKLACE:1",
+      "B3": "GREAT_WHITE_SHARK_TOOTH:1",
+      "C1": "",
+      "C2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "C3": ""
+   },
+   "internalname": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
+   "crafttext": ""
+}

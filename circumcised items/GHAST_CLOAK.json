@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Ghast Cloak",
+   "recipe": {
+      "A1": "ENCHANTED_GHAST_TEAR:32",
+      "A2": "TENTACLE_MEAT:10",
+      "A3": "ENCHANTED_GHAST_TEAR:32",
+      "B1": "ENCHANTED_GHAST_TEAR:32",
+      "B2": "",
+      "B3": "ENCHANTED_GHAST_TEAR:32",
+      "C1": "ENCHANTED_GHAST_TEAR:32",
+      "C2": "",
+      "C3": "ENCHANTED_GHAST_TEAR:32"
+   },
+   "internalname": "GHAST_CLOAK",
+   "crafttext": ""
+}

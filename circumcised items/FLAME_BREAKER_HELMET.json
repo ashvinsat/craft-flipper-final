@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Flamebreaker Helmet",
+   "recipe": {
+      "A1": "ENCHANTED_HARD_STONE:20",
+      "A2": "ENCHANTED_HARD_STONE:20",
+      "A3": "ENCHANTED_HARD_STONE:20",
+      "B1": "ENCHANTED_HARD_STONE:20",
+      "B2": "",
+      "B3": "ENCHANTED_HARD_STONE:20",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "FLAME_BREAKER_HELMET",
+   "crafttext": "Requires Hard Stone Collection V"
+}

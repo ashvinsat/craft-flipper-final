@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a79\u2742 \u00a79Fine Opal Gemstone",
+   "recipe": {
+      "A1": "",
+      "A2": "FLAWED_OPAL_GEM:16",
+      "A3": "",
+      "B1": "FLAWED_OPAL_GEM:16",
+      "B2": "FLAWED_OPAL_GEM:16",
+      "B3": "FLAWED_OPAL_GEM:16",
+      "C1": "",
+      "C2": "FLAWED_OPAL_GEM:16",
+      "C3": ""
+   },
+   "internalname": "FINE_OPAL_GEM"
+}

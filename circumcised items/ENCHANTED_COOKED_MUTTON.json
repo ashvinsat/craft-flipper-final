@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Cooked Mutton",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_MUTTON:32",
+      "A3": "",
+      "B1": "ENCHANTED_MUTTON:32",
+      "B2": "ENCHANTED_MUTTON:32",
+      "B3": "ENCHANTED_MUTTON:32",
+      "C1": "",
+      "C2": "ENCHANTED_MUTTON:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_COOKED_MUTTON",
+   "crafttext": "Requires: Mutton VIII"
+}

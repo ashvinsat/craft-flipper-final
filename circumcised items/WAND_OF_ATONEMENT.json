@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Wand of Atonement",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "REVENANT_VISCERA:64",
+      "B1": "",
+      "B2": "WAND_OF_RESTORATION:1",
+      "B3": "",
+      "C1": "ENCHANTED_DARK_OAK_LOG:64",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "WAND_OF_ATONEMENT",
+   "crafttext": "Requires Zombie Slayer 7"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Rabbit Foot",
+   "recipe": {
+      "A1": "",
+      "A2": "RABBIT_FOOT:32",
+      "A3": "",
+      "B1": "RABBIT_FOOT:32",
+      "B2": "RABBIT_FOOT:32",
+      "B3": "RABBIT_FOOT:32",
+      "C1": "",
+      "C2": "RABBIT_FOOT:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_RABBIT_FOOT",
+   "crafttext": "Requires: Raw Rabbit IV"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Eye of Ender",
+   "recipe": {
+      "A1": "",
+      "A2": "BLAZE_POWDER:16",
+      "A3": "",
+      "B1": "BLAZE_POWDER:16",
+      "B2": "ENCHANTED_ENDER_PEARL:16",
+      "B3": "BLAZE_POWDER:16",
+      "C1": "",
+      "C2": "BLAZE_POWDER:16",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_EYE_OF_ENDER",
+   "crafttext": "Requires: Ender Pearl VI"
+}

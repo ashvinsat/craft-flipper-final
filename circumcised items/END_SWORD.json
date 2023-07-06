@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnd Sword",
+   "internalname": "END_SWORD",
+   "crafttext": "",
+   "recipe": {
+      "A1": "ENDER_PEARL:1",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "ENDER_PEARL:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "STICK:1"
+   }
+}

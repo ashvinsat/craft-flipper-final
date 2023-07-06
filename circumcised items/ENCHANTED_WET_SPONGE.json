@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Wet Sponge",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SPONGE:8",
+      "A3": "",
+      "B1": "ENCHANTED_SPONGE:8",
+      "B2": "ENCHANTED_SPONGE:8",
+      "B3": "ENCHANTED_SPONGE:8",
+      "C1": "",
+      "C2": "ENCHANTED_SPONGE:8",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_WET_SPONGE",
+   "crafttext": "Requires: Sponge VII"
+}

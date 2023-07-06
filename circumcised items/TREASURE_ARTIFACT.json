@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a76Treasure Artifact",
+   "recipe": {
+      "A1": "TREASURE_RING:1",
+      "A2": "TREASURE_RING:1",
+      "A3": "TREASURE_RING:1",
+      "B1": "TREASURE_RING:1",
+      "B2": "TREASURE_RING:1",
+      "B3": "TREASURE_RING:1",
+      "C1": "TREASURE_RING:1",
+      "C2": "TREASURE_RING:1",
+      "C3": "TREASURE_RING:1"
+   },
+   "internalname": "TREASURE_ARTIFACT",
+   "crafttext": ""
+}

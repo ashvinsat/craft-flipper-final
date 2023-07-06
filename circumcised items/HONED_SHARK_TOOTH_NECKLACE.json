@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Honed Shark Tooth Necklace",
+   "recipe": {
+      "A1": "",
+      "A2": "BLUE_SHARK_TOOTH:1",
+      "A3": "",
+      "B1": "BLUE_SHARK_TOOTH:1",
+      "B2": "DULL_SHARK_TOOTH_NECKLACE:1",
+      "B3": "BLUE_SHARK_TOOTH:1",
+      "C1": "",
+      "C2": "BLUE_SHARK_TOOTH:1",
+      "C3": ""
+   },
+   "internalname": "HONED_SHARK_TOOTH_NECKLACE",
+   "crafttext": ""
+}

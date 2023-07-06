@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Berberis Fuel Injector",
+   "recipe": {
+      "A1": "",
+      "A2": "WILTED_BERBERIS:48",
+      "A3": "",
+      "B1": "WILTED_BERBERIS:48",
+      "B2": "WILTED_BERBERIS:48",
+      "B3": "WILTED_BERBERIS:48",
+      "C1": "WILTED_BERBERIS:48",
+      "C2": "WILTED_BERBERIS:48",
+      "C3": "WILTED_BERBERIS:48"
+   },
+   "internalname": "BERBERIS_FUEL_INJECTOR",
+   "crafttext": "Requires: Wilted Berberis IV"
+}

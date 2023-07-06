@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Squash Helmet",
+   "recipe": {
+      "A1": "SQUASH:10",
+      "A2": "POLISHED_PUMPKIN:8",
+      "A3": "SQUASH:10",
+      "B1": "ENCHANTED_MELON_BLOCK:24",
+      "B2": "CROPIE_HELMET:1",
+      "B3": "ENCHANTED_MELON_BLOCK:24",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SQUASH_HELMET",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Hardened Diamond Boots",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_DIAMOND:1",
+      "B2": "",
+      "B3": "ENCHANTED_DIAMOND:1",
+      "C1": "ENCHANTED_DIAMOND:1",
+      "C2": "",
+      "C3": "ENCHANTED_DIAMOND:1"
+   },
+   "internalname": "HARDENED_DIAMOND_BOOTS",
+   "crafttext": "Requires: Diamond VII"
+}

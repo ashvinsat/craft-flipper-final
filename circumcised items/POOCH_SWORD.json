@@ -1,0 +1,16 @@
+{
+   "internalname": "POOCH_SWORD",
+   "displayname": "\u00a76Pooch Sword",
+   "recipe": {
+      "A1": "",
+      "A2": "GOLDEN_TOOTH:24",
+      "A3": "",
+      "B1": "",
+      "B2": "GOLDEN_TOOTH:24",
+      "B3": "",
+      "C1": "",
+      "C2": "SHAMAN_SWORD:1",
+      "C3": ""
+   },
+   "crafttext": ""
+}
