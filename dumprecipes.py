@@ -11,20 +11,26 @@ bz = requests.get('https://sky.shiiyu.moe/api/v2/bazaar').json()
 def GetDict(tag):
     #open the file for the item
     scriptDir = os.path.dirname(os.path.abspath(__file__))
-    filePath = os.path.join(scriptDir, 'circumcised items', tag + '.json')
+    filePath = os.path.join(scriptDir, 'items backup', tag + '.json')
     file = open(filePath)
     data = json.load(file)
     recipe = {}
     #find the recipe
-    for i in data['recipe'].values():
+    if "Enchanted Book" not in data['displayname']:
+        
+        for i in data['recipe'].values():
             if i == '':
                 pass
+            elif type(i) is int:
+                    recipe["count"] = int(data['recipe']["count"]) #make sure it pulls from the full item list
             else: 
                 key, value = i.split(':')
                 if key in recipe:
                     recipe[key] += int(value)
                 else:
                     recipe[key] = int(value)
+    else:
+                pass
     #lol find a better automated solution for this eventually that terminates once there isnt anything left
     re1 = MultilayeredRecipe(recipe)
     re2 = MultilayeredRecipe(re1)
@@ -44,13 +50,15 @@ def MultilayeredRecipe(oldDict):
     for i in oldDict.keys():
         try:
             scriptDir = os.path.dirname(os.path.abspath(__file__))
-            filePath = os.path.join(scriptDir, 'circumcised items', i + '.json')
+            filePath = os.path.join(scriptDir, 'items backup', i + '.json')
             file = open(filePath)
             data = json.load(file)
-            try:
+            if "Enchanted Book" not in data['displayname']:
                 for j in data['recipe'].values():
                     if j == '':
                         pass
+                    elif j == 'count':
+                        newrecipe[j] = int(data['recipe'][j])
                     else: 
                         key, value = j.split(':')
                         if key in newrecipe:
@@ -58,13 +66,13 @@ def MultilayeredRecipe(oldDict):
                             #but some day make it so that if that value goes over 160 u can just leave it as the previous form
                         else:
                             newrecipe[key] = int(value) * oldDict[i]
-            except:
+            else:
                 pass
             del newrecipe[i]
         
             file.close()
         except FileNotFoundError:
-            pass
+                pass
     return(newrecipe)
 
 def DumpToFile(tag):
@@ -72,3 +80,4 @@ def DumpToFile(tag):
     with open("craftingrecipes.json", 'a') as f:
         json.dump(dumpy, f, indent=4)
         f.write(",")
+
