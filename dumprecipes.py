@@ -11,13 +11,12 @@ bz = requests.get('https://sky.shiiyu.moe/api/v2/bazaar').json()
 def GetDict(tag):
     #open the file for the item
     scriptDir = os.path.dirname(os.path.abspath(__file__))
-    filePath = os.path.join(scriptDir, 'items backup', tag + '.json')
+    filePath = os.path.join(scriptDir, 'circumcised items', tag + '.json')
     file = open(filePath)
     data = json.load(file)
     recipe = {}
     #find the recipe
     if "Enchanted Book" not in data['displayname']:
-        
         for i in data['recipe'].values():
             if i == '':
                 pass
