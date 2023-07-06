@@ -18,3 +18,13 @@ for filename in os.listdir(directory):
 
 file = open("craftingrecipes.json", 'a')
 file.write("]")
+
+
+"""
+list of weird cases:
+1. some items like emerald have trades https://discord.com/channels/@me/1112917933593743370/1126578877611917464
+2. some items like gold/iron ingots have backwards and forwards recipes that are the same and cause issues with the amount of items
+    potential fix is: if recipe[j] 
+3. some rift items are effectively soulbound but dont have the indicator in the lore (agaricus chum cap)
+
+"""

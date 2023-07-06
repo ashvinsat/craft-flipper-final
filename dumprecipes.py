@@ -40,6 +40,14 @@ def GetDict(tag):
     re7 = MultilayeredRecipe(re6)
     re8 = MultilayeredRecipe(re7)
     re9 = MultilayeredRecipe(re8)
+    # re10 = MultilayeredRecipe(re9)
+    # re11 = MultilayeredRecipe(re10)
+    # re12 = MultilayeredRecipe(re11)
+    # re13 = MultilayeredRecipe(re12)
+    # re14 = MultilayeredRecipe(re13)
+    # re15 = MultilayeredRecipe(re14)
+    # re16 = MultilayeredRecipe(re15)
+    
     #create a dictionary that can be dumped into the bigger json
     jsonableDict = {tag:re9}
     return jsonableDict
@@ -53,18 +61,21 @@ def MultilayeredRecipe(oldDict):
             file = open(filePath)
             data = json.load(file)
             if "Enchanted Book" not in data['displayname']:
-                for j in data['recipe'].values():
-                    if j == '':
-                        pass
-                    elif j == 'count':
-                        newrecipe[j] = int(data['recipe'][j])
-                    else: 
-                        key, value = j.split(':')
-                        if key in newrecipe:
-                            newrecipe[key] += int(value) * oldDict[i]
-                            #but some day make it so that if that value goes over 160 u can just leave it as the previous form
-                        else:
-                            newrecipe[key] = int(value) * oldDict[i]
+                try:
+                    for j in data['recipe'].values():
+                        if j == '':
+                            pass
+                        elif type(i) is int:
+                            newrecipe["count"] = int(data['recipe']["count"]) #make sure it pulls from the full item list
+                        else: 
+                            key, value = j.split(':')
+                            if key in newrecipe:
+                                newrecipe[key] += int(value) * oldDict[i]
+                                #but some day make it so that if that value goes over 160 u can just leave it as the previous form
+                            else:
+                                newrecipe[key] = int(value) * oldDict[i]
+                except KeyError:
+                     pass
             else:
                 pass
             del newrecipe[i]
@@ -80,3 +91,4 @@ def DumpToFile(tag):
         json.dump(dumpy, f, indent=4)
         f.write(",")
 
+DumpToFile("ENCHANTED_MELON_BLOCK")
