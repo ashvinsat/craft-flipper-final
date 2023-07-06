@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Fire Freeze Staff",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "SPELL_POWDER:5",
+      "B1": "",
+      "B2": "WITHER_SOUL:20",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "FIRE_FREEZE_STAFF",
+   "crafttext": ""
+}

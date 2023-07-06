@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fPacked Ice",
+   "recipe": {
+      "A1": "ICE:1",
+      "A2": "ICE:1",
+      "A3": "ICE:1",
+      "B1": "ICE:1",
+      "B2": "ICE:1",
+      "B3": "ICE:1",
+      "C1": "ICE:1",
+      "C2": "ICE:1",
+      "C3": "ICE:1"
+   },
+   "internalname": "PACKED_ICE",
+   "crafttext": "Requires: Ice III"
+}

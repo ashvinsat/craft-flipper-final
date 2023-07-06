@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Prismarine Shard",
+   "recipe": {
+      "A1": "",
+      "A2": "PRISMARINE_SHARD:16",
+      "A3": "",
+      "B1": "PRISMARINE_SHARD:16",
+      "B2": "PRISMARINE_SHARD:16",
+      "B3": "PRISMARINE_SHARD:16",
+      "C1": "",
+      "C2": "PRISMARINE_SHARD:16",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_PRISMARINE_SHARD",
+   "crafttext": "Requires: Prismarine Shard III"
+}

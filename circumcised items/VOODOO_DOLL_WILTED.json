@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Jinxed Voodoo Doll",
+   "recipe": {
+      "A1": "WILTED_BERBERIS_BUNCH:16",
+      "A2": "ENCHANTED_PUFFERFISH:3",
+      "A3": "WILTED_BERBERIS_BUNCH:16",
+      "B1": "WILTED_BERBERIS_BUNCH:16",
+      "B2": "VOIDLING_GENERATOR_2:1",
+      "B3": "ENCHANTED_GHAST_TEAR:13",
+      "C1": "ZOMBIE_HEART:1",
+      "C2": "WILTED_BERBERIS_BUNCH:16",
+      "C3": "VOODOO_DOLL:1"
+   },
+   "internalname": "VOODOO_DOLL_WILTED",
+   "crafttext": "Requires: Wilted Berberis III"
+}

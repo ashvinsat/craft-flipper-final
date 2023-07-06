@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aLava Talisman",
+   "recipe": {
+      "A1": "ENCHANTED_MAGMA_CREAM:1",
+      "A2": "ENCHANTED_MAGMA_CREAM:1",
+      "A3": "ENCHANTED_MAGMA_CREAM:1",
+      "B1": "ENCHANTED_MAGMA_CREAM:1",
+      "B2": "ENCHANTED_MAGMA_CREAM:1",
+      "B3": "ENCHANTED_MAGMA_CREAM:1",
+      "C1": "ENCHANTED_MAGMA_CREAM:1",
+      "C2": "ENCHANTED_MAGMA_CREAM:1",
+      "C3": "ENCHANTED_MAGMA_CREAM:1"
+   },
+   "internalname": "LAVA_TALISMAN",
+   "crafttext": "Requires: Magma Cream VII"
+}

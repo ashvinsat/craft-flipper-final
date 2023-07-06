@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Challenging Rod",
+   "recipe": {
+      "A1": "WATER_LILY:64",
+      "A2": "WATER_LILY:64",
+      "A3": "WATER_LILY:64",
+      "B1": "WATER_LILY:64",
+      "B2": "FISHING_ROD:1",
+      "B3": "WATER_LILY:64",
+      "C1": "WATER_LILY:64",
+      "C2": "WATER_LILY:64",
+      "C3": "WATER_LILY:64"
+   },
+   "internalname": "CHALLENGE_ROD",
+   "crafttext": "Requires: Lily Pad V"
+}

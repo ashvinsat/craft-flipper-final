@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aRed Claw Talisman",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "WOLF_TOOTH:4",
+      "B2": "ENCHANTED_BONE:1",
+      "B3": "WOLF_TOOTH:4",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "RED_CLAW_TALISMAN",
+   "crafttext": ""
+}

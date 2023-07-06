@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Cake",
+   "recipe": {
+      "A1": "MILK_BUCKET:1",
+      "A2": "MILK_BUCKET:1",
+      "A3": "MILK_BUCKET:1",
+      "B1": "ENCHANTED_SUGAR:1",
+      "B2": "ENCHANTED_EGG:1",
+      "B3": "ENCHANTED_SUGAR:1",
+      "C1": "WHEAT:1",
+      "C2": "WHEAT:1",
+      "C3": "WHEAT:1"
+   },
+   "internalname": "ENCHANTED_CAKE",
+   "crafttext": "Requires: Raw Chicken VII"
+}

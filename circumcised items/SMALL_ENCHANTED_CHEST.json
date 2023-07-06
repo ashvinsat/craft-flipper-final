@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fSmall Storage",
+   "recipe": {
+      "A1": "LOG:8",
+      "A2": "LOG:8",
+      "A3": "LOG:8",
+      "B1": "LOG:8",
+      "B2": "",
+      "B3": "LOG:8",
+      "C1": "LOG:8",
+      "C2": "LOG:8",
+      "C3": "LOG:8"
+   },
+   "internalname": "SMALL_ENCHANTED_CHEST",
+   "crafttext": "Requires: Oak Wood IV"
+}

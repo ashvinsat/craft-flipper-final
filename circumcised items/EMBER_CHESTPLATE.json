@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a75Ember Chestplate",
+   "recipe": {
+      "A1": "EMBER_FRAGMENT:1",
+      "A2": "",
+      "A3": "EMBER_FRAGMENT:1",
+      "B1": "EMBER_FRAGMENT:1",
+      "B2": "EMBER_FRAGMENT:1",
+      "B3": "EMBER_FRAGMENT:1",
+      "C1": "EMBER_FRAGMENT:1",
+      "C2": "EMBER_FRAGMENT:1",
+      "C3": "EMBER_FRAGMENT:1"
+   },
+   "internalname": "EMBER_CHESTPLATE",
+   "crafttext": ""
+}

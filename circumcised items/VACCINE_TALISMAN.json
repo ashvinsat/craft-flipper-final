@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fVaccine Talisman",
+   "recipe": {
+      "A1": "POISONOUS_POTATO:1",
+      "A2": "POISONOUS_POTATO:1",
+      "A3": "POISONOUS_POTATO:1",
+      "B1": "POISONOUS_POTATO:1",
+      "B2": "POISONOUS_POTATO:1",
+      "B3": "POISONOUS_POTATO:1",
+      "C1": "POISONOUS_POTATO:1",
+      "C2": "POISONOUS_POTATO:1",
+      "C3": "POISONOUS_POTATO:1"
+   },
+   "internalname": "VACCINE_TALISMAN",
+   "crafttext": "Requires: Potato III"
+}

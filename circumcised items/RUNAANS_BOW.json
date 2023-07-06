@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Runaan's Bow",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_BONE:64",
+      "A3": "ENCHANTED_STRING:64",
+      "B1": "ENCHANTED_BONE:64",
+      "B2": "",
+      "B3": "ENCHANTED_STRING:64",
+      "C1": "",
+      "C2": "ENCHANTED_BONE:64",
+      "C3": "ENCHANTED_STRING:64"
+   },
+   "internalname": "RUNAANS_BOW",
+   "crafttext": "Requires: Bone IX"
+}

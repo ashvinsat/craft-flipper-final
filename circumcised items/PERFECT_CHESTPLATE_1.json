@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Perfect Chestplate - Tier I",
+   "recipe": {
+      "A1": "ENCHANTED_DIAMOND_BLOCK:1",
+      "A2": "",
+      "A3": "ENCHANTED_DIAMOND_BLOCK:1",
+      "B1": "ENCHANTED_DIAMOND_BLOCK:1",
+      "B2": "ENCHANTED_DIAMOND_BLOCK:1",
+      "B3": "ENCHANTED_DIAMOND_BLOCK:1",
+      "C1": "ENCHANTED_DIAMOND_BLOCK:1",
+      "C2": "ENCHANTED_DIAMOND_BLOCK:1",
+      "C3": "ENCHANTED_DIAMOND_BLOCK:1"
+   },
+   "internalname": "PERFECT_CHESTPLATE_1",
+   "crafttext": "Requires: Diamond IX"
+}

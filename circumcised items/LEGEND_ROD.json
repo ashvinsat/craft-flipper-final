@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Rod of Legends",
+   "recipe": {
+      "A1": "ENCHANTED_WATER_LILY:16",
+      "A2": "ENCHANTED_WATER_LILY:16",
+      "A3": "ENCHANTED_WATER_LILY:16",
+      "B1": "ENCHANTED_WATER_LILY:16",
+      "B2": "CHAMP_ROD:1",
+      "B3": "ENCHANTED_WATER_LILY:16",
+      "C1": "ENCHANTED_WATER_LILY:16",
+      "C2": "ENCHANTED_WATER_LILY:16",
+      "C3": "ENCHANTED_WATER_LILY:16"
+   },
+   "internalname": "LEGEND_ROD",
+   "crafttext": "Requires: Lily Pad IX"
+}

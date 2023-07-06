@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Rod of the Sea",
+   "recipe": {
+      "A1": "ENCHANTED_SHARK_FIN:1",
+      "A2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "A3": "ENCHANTED_SHARK_FIN:1",
+      "B1": "GREAT_WHITE_SHARK_TOOTH:1",
+      "B2": "LEGEND_ROD:1",
+      "B3": "GREAT_WHITE_SHARK_TOOTH:1",
+      "C1": "ENCHANTED_SHARK_FIN:1",
+      "C2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "C3": "ENCHANTED_SHARK_FIN:1"
+   },
+   "internalname": "ROD_OF_THE_SEA",
+   "crafttext": ""
+}

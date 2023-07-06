@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a75Mineral Leggings",
+   "recipe": {
+      "A1": "REFINED_MINERAL:1",
+      "A2": "REFINED_MINERAL:1",
+      "A3": "REFINED_MINERAL:1",
+      "B1": "REFINED_MINERAL:1",
+      "B2": "HARDENED_DIAMOND_LEGGINGS:1",
+      "B3": "REFINED_MINERAL:1",
+      "C1": "REFINED_MINERAL:1",
+      "C2": "",
+      "C3": "REFINED_MINERAL:1"
+   },
+   "internalname": "MINERAL_LEGGINGS"
+}

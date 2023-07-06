@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Pigman Sword",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_GRILLED_PORK:24",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_GRILLED_PORK:24",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+   },
+   "internalname": "PIGMAN_SWORD",
+   "crafttext": "Requires: Raw Porkchop IX"
+}

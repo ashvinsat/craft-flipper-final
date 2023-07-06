@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Soulflow Engine",
+   "recipe": {
+      "A1": "NULL_ATOM:1",
+      "A2": "LESSER_SOULFLOW_ENGINE:1",
+      "A3": "NULL_ATOM:1",
+      "B1": "LESSER_SOULFLOW_ENGINE:1",
+      "B2": "NULL_OVOID:64",
+      "B3": "LESSER_SOULFLOW_ENGINE:1",
+      "C1": "REFINED_TITANIUM:6",
+      "C2": "LESSER_SOULFLOW_ENGINE:1",
+      "C3": "REFINED_TITANIUM:6"
+   },
+   "internalname": "SOULFLOW_ENGINE",
+   "crafttext": ""
+}

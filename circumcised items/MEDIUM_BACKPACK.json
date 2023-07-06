@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Medium Backpack",
+   "recipe": {
+      "A1": "LEATHER:64",
+      "A2": "LEATHER:64",
+      "A3": "LEATHER:64",
+      "B1": "LEATHER:64",
+      "B2": "SMALL_BACKPACK:1",
+      "B3": "LEATHER:64",
+      "C1": "LEATHER:64",
+      "C2": "LEATHER:64",
+      "C3": "LEATHER:64"
+   },
+   "internalname": "MEDIUM_BACKPACK",
+   "crafttext": "Requires: Leather V"
+}

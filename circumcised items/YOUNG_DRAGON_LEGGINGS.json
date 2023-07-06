@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Young Dragon Leggings",
+   "recipe": {
+      "A1": "YOUNG_FRAGMENT:10",
+      "A2": "YOUNG_FRAGMENT:10",
+      "A3": "YOUNG_FRAGMENT:10",
+      "B1": "YOUNG_FRAGMENT:10",
+      "B2": "",
+      "B3": "YOUNG_FRAGMENT:10",
+      "C1": "YOUNG_FRAGMENT:10",
+      "C2": "",
+      "C3": "YOUNG_FRAGMENT:10"
+   },
+   "internalname": "YOUNG_DRAGON_LEGGINGS",
+   "crafttext": ""
+}

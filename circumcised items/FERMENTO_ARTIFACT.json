@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Fermento Artifact",
+   "recipe": {
+      "A1": "CONDENSED_FERMENTO:1",
+      "A2": "CONDENSED_FERMENTO:1",
+      "A3": "CONDENSED_FERMENTO:1",
+      "B1": "CONDENSED_FERMENTO:1",
+      "B2": "SQUASH_RING:1",
+      "B3": "CONDENSED_FERMENTO:1",
+      "C1": "CONDENSED_FERMENTO:1",
+      "C2": "CONDENSED_FERMENTO:1",
+      "C3": "CONDENSED_FERMENTO:1"
+   },
+   "internalname": "FERMENTO_ARTIFACT",
+   "crafttext": ""
+}

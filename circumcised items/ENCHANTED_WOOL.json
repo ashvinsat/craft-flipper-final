@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a7aEnchanted Wool",
+   "recipe": {
+      "A1": "",
+      "A2": "WOOL:32",
+      "A3": "",
+      "B1": "WOOL:32",
+      "B2": "WOOL:32",
+      "B3": "WOOL:32",
+      "C1": "",
+      "C2": "WOOL:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_WOOL"
+}

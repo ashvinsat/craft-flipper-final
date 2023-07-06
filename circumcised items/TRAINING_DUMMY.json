@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aTraining Dummy",
+   "recipe": {
+      "A1": "SPONGE:32",
+      "A2": "ENCHANTED_PUMPKIN:1",
+      "A3": "SPONGE:32",
+      "B1": "SPONGE:32",
+      "B2": "ARMOR_SHOWCASE:1",
+      "B3": "SPONGE:32",
+      "C1": "SPONGE:32",
+      "C2": "SPONGE:32",
+      "C3": "SPONGE:32"
+   },
+   "internalname": "TRAINING_DUMMY",
+   "crafttext": "Requires: Pumpkin V"
+}

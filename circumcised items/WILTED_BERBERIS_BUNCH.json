@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aWilted Berberis Bunch",
+   "recipe": {
+      "A1": "",
+      "A2": "WILTED_BERBERIS:4",
+      "A3": "",
+      "B1": "WILTED_BERBERIS:4",
+      "B2": "WILTED_BERBERIS:4",
+      "B3": "WILTED_BERBERIS:4",
+      "C1": "",
+      "C2": "WILTED_BERBERIS:4",
+      "C3": ""
+   },
+   "internalname": "WILTED_BERBERIS_BUNCH",
+   "crafttext": "Requires: Wilted Berberis I"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Slimeball",
+   "recipe": {
+      "A1": "",
+      "A2": "SLIME_BALL:32",
+      "A3": "",
+      "B1": "SLIME_BALL:32",
+      "B2": "SLIME_BALL:32",
+      "B3": "SLIME_BALL:32",
+      "C1": "",
+      "C2": "SLIME_BALL:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_SLIME_BALL",
+   "crafttext": "Requires: Slimeball V"
+}

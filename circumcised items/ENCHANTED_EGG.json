@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Egg",
+   "recipe": {
+      "A1": "EGG:16",
+      "A2": "EGG:16",
+      "A3": "EGG:16",
+      "B1": "EGG:16",
+      "B2": "EGG:16",
+      "B3": "EGG:16",
+      "C1": "EGG:16",
+      "C2": "EGG:16",
+      "C3": "EGG:16"
+   },
+   "internalname": "ENCHANTED_EGG",
+   "crafttext": "Requires: Raw Chicken V"
+}

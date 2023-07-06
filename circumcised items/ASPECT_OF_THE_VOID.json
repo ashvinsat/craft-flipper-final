@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Aspect of the Void",
+   "recipe": {
+      "A1": "",
+      "A2": "NULL_OVOID:8",
+      "A3": "",
+      "B1": "NULL_OVOID:8",
+      "B2": "ASPECT_OF_THE_END:1",
+      "B3": "NULL_OVOID:8",
+      "C1": "",
+      "C2": "NULL_OVOID:8",
+      "C3": ""
+   },
+   "internalname": "ASPECT_OF_THE_VOID",
+   "crafttext": ""
+}

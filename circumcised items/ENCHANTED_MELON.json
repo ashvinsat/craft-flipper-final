@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Melon",
+   "recipe": {
+      "A1": "",
+      "A2": "MELON:32",
+      "A3": "",
+      "B1": "MELON:32",
+      "B2": "MELON:32",
+      "B3": "MELON:32",
+      "C1": "",
+      "C2": "MELON:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_MELON",
+   "crafttext": "Requires: Melon IV"
+}

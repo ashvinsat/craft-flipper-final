@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Silex",
+   "recipe": {
+      "A1": "CONCENTRATED_STONE:1",
+      "A2": "CONCENTRATED_STONE:1",
+      "A3": "CONCENTRATED_STONE:1",
+      "B1": "CONCENTRATED_STONE:1",
+      "B2": "CONCENTRATED_STONE:1",
+      "B3": "CONCENTRATED_STONE:1",
+      "C1": "CONCENTRATED_STONE:1",
+      "C2": "CONCENTRATED_STONE:1",
+      "C3": "CONCENTRATED_STONE:1"
+   },
+   "internalname": "SIL_EX",
+   "crafttext": "Requires: Hard Stone VII"
+}

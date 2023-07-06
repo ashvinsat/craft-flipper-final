@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Sorrow Chestplate",
+   "recipe": {
+      "A1": "SORROW:3",
+      "A2": "",
+      "A3": "SORROW:3",
+      "B1": "SORROW:3",
+      "B2": "SORROW:3",
+      "B3": "SORROW:3",
+      "C1": "SORROW:3",
+      "C2": "SORROW:3",
+      "C3": "SORROW:3"
+   },
+   "internalname": "SORROW_CHESTPLATE",
+   "crafttext": ""
+}

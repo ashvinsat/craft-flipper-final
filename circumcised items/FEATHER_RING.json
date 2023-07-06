@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a7aFeather Ring",
+   "recipe": {
+      "A1": "ENCHANTED_FEATHER:1",
+      "A2": "FEATHER_TALISMAN:1",
+      "A3": "ENCHANTED_FEATHER:1",
+      "B1": "ENCHANTED_FEATHER:1",
+      "B2": "",
+      "B3": "ENCHANTED_FEATHER:1",
+      "C1": "ENCHANTED_FEATHER:1",
+      "C2": "ENCHANTED_FEATHER:1",
+      "C3": "ENCHANTED_FEATHER:1"
+   },
+   "internalname": "FEATHER_RING",
+   "crafttext": "Requires: Feather VII"
+}

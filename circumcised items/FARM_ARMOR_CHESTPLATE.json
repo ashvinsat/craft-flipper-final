@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Farm Armor Chestplate",
+   "recipe": {
+      "A1": "ENCHANTED_HAY_BLOCK:1",
+      "A2": "",
+      "A3": "ENCHANTED_HAY_BLOCK:1",
+      "B1": "ENCHANTED_HAY_BLOCK:1",
+      "B2": "ENCHANTED_HAY_BLOCK:1",
+      "B3": "ENCHANTED_HAY_BLOCK:1",
+      "C1": "ENCHANTED_HAY_BLOCK:1",
+      "C2": "ENCHANTED_HAY_BLOCK:1",
+      "C3": "ENCHANTED_HAY_BLOCK:1"
+   },
+   "internalname": "FARM_ARMOR_CHESTPLATE",
+   "crafttext": "Requires: Wheat IX"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Ancient Cloak",
+   "recipe": {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "WITHER_SOUL:64",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "ENCHANTED_RED_SAND_CUBE:1",
+      "B2": "",
+      "B3": "ENCHANTED_RED_SAND_CUBE:1",
+      "C1": "ENCHANTED_RED_SAND_CUBE:1",
+      "C2": "",
+      "C3": "ENCHANTED_RED_SAND_CUBE:1"
+   },
+   "internalname": "ANCIENT_CLOAK",
+   "crafttext": ""
+}

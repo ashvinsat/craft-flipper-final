@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Blast o' Lantern",
+   "recipe": {
+      "A1": "GREEN_CANDY:1",
+      "A2": "GREEN_CANDY:1",
+      "A3": "GREEN_CANDY:1",
+      "B1": "GREEN_CANDY:1",
+      "B2": "PUMPKIN_GUTS:1",
+      "B3": "GREEN_CANDY:1",
+      "C1": "GREEN_CANDY:1",
+      "C2": "GREEN_CANDY:1",
+      "C3": "GREEN_CANDY:1"
+   },
+   "internalname": "PUMPKIN_BOMB",
+   "crafttext": ""
+}

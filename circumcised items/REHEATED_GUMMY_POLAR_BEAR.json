@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aRe-heated Gummy Polar Bear",
+   "recipe": {
+      "A1": "CHILI_PEPPER:1",
+      "A2": "ENCHANTED_SLIME_BALL:1",
+      "A3": "CHILI_PEPPER:1",
+      "B1": "ENCHANTED_SLIME_BALL:1",
+      "B2": "ENCHANTED_SNOW_BLOCK:4",
+      "B3": "ENCHANTED_SLIME_BALL:1",
+      "C1": "CHILI_PEPPER:1",
+      "C2": "ENCHANTED_SLIME_BALL:1",
+      "C3": "CHILI_PEPPER:1"
+   },
+   "internalname": "REHEATED_GUMMY_POLAR_BEAR",
+   "crafttext": "Requires: Chili Pepper I"
+}

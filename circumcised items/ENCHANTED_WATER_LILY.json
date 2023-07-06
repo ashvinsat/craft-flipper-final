@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Lily Pad",
+   "recipe": {
+      "A1": "",
+      "A2": "WATER_LILY:32",
+      "A3": "",
+      "B1": "WATER_LILY:32",
+      "B2": "WATER_LILY:32",
+      "B3": "WATER_LILY:32",
+      "C1": "",
+      "C2": "WATER_LILY:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_WATER_LILY",
+   "crafttext": "Requires: Lily Pad IV"
+}

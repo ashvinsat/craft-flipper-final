@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Diamond Spreading",
+   "recipe": {
+      "A1": "VINE:1",
+      "A2": "VINE:1",
+      "A3": "VINE:1",
+      "B1": "VINE:1",
+      "B2": "ENCHANTED_DIAMOND:1",
+      "B3": "VINE:1",
+      "C1": "VINE:1",
+      "C2": "VINE:1",
+      "C3": "VINE:1"
+   },
+   "internalname": "DIAMOND_SPREADING",
+   "crafttext": "Requires: Diamond VI"
+}

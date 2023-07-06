@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Skeleton's Helmet",
+   "recipe": {
+      "A1": "ENCHANTED_BONE:64",
+      "A2": "ENCHANTED_BONE:64",
+      "A3": "ENCHANTED_BONE:64",
+      "B1": "ENCHANTED_BONE:64",
+      "B2": "",
+      "B3": "ENCHANTED_BONE:64",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SKELETON_HELMET",
+   "crafttext": "Requires: Bone VIII"
+}

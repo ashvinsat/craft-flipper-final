@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Superb Carrot Candy",
+   "recipe": {
+      "A1": "ENCHANTED_GOLDEN_CARROT:3",
+      "A2": "ENCHANTED_GOLDEN_CARROT:3",
+      "A3": "ENCHANTED_GOLDEN_CARROT:3",
+      "B1": "ENCHANTED_GOLDEN_CARROT:3",
+      "B2": "GREAT_CARROT_CANDY:1",
+      "B3": "ENCHANTED_GOLDEN_CARROT:3",
+      "C1": "ENCHANTED_GOLDEN_CARROT:3",
+      "C2": "ENCHANTED_GOLDEN_CARROT:3",
+      "C3": "ENCHANTED_GOLDEN_CARROT:3"
+   },
+   "internalname": "SUPERB_CARROT_CANDY",
+   "crafttext": "Requires: Carrot VIII"
+}

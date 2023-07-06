@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Sorrow Boots",
+   "recipe": {
+      "A1": "SORROW:3",
+      "A2": "",
+      "A3": "SORROW:3",
+      "B1": "SORROW:3",
+      "B2": "",
+      "B3": "SORROW:3",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SORROW_BOOTS",
+   "crafttext": ""
+}

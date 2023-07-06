@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Diver's Shirt",
+   "recipe": {
+      "A1": "DIVER_FRAGMENT:1",
+      "A2": "",
+      "A3": "DIVER_FRAGMENT:1",
+      "B1": "DIVER_FRAGMENT:1",
+      "B2": "DIVER_FRAGMENT:1",
+      "B3": "DIVER_FRAGMENT:1",
+      "C1": "DIVER_FRAGMENT:1",
+      "C2": "DIVER_FRAGMENT:1",
+      "C3": "DIVER_FRAGMENT:1"
+   },
+   "internalname": "DIVER_CHESTPLATE",
+   "crafttext": ""
+}

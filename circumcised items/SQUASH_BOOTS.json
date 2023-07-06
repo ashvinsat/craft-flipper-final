@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Squash Boots",
+   "recipe": {
+      "A1": "SQUASH:10",
+      "A2": "",
+      "A3": "SQUASH:10",
+      "B1": "POLISHED_PUMPKIN:6",
+      "B2": "CROPIE_BOOTS:1",
+      "B3": "POLISHED_PUMPKIN:6",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SQUASH_BOOTS",
+   "crafttext": ""
+}

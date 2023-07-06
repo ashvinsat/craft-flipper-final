@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aVoidwalker Katana",
+   "recipe": {
+      "A1": "",
+      "A2": "NULL_SPHERE:16",
+      "A3": "",
+      "B1": "",
+      "B2": "NULL_SPHERE:16",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+   },
+   "internalname": "VOIDWALKER_KATANA",
+   "crafttext": ""
+}

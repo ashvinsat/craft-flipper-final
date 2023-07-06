@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Speedster Chestplate",
+   "recipe": {
+      "A1": "ENCHANTED_SUGAR_CANE:1",
+      "A2": "",
+      "A3": "ENCHANTED_SUGAR_CANE:1",
+      "B1": "ENCHANTED_SUGAR_CANE:1",
+      "B2": "ENCHANTED_SUGAR_CANE:1",
+      "B3": "ENCHANTED_SUGAR_CANE:1",
+      "C1": "ENCHANTED_SUGAR_CANE:1",
+      "C2": "ENCHANTED_SUGAR_CANE:1",
+      "C3": "ENCHANTED_SUGAR_CANE:1"
+   },
+   "internalname": "SPEEDSTER_CHESTPLATE",
+   "crafttext": "Requires: Sugar Cane IX"
+}

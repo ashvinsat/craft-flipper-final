@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Draconic Ring",
+   "recipe": {
+      "A1": "RITUAL_RESIDUE:1",
+      "A2": "MITE_GEL:32",
+      "A3": "RITUAL_RESIDUE:1",
+      "B1": "MITE_GEL:32",
+      "B2": "DRACONIC_TALISMAN:1",
+      "B3": "MITE_GEL:32",
+      "C1": "RITUAL_RESIDUE:1",
+      "C2": "TESSELLATED_ENDER_PEARL:1",
+      "C3": "RITUAL_RESIDUE:1"
+   },
+   "internalname": "DRACONIC_RING",
+   "crafttext": ""
+}

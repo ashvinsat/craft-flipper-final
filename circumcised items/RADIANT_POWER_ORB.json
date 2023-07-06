@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a7aRadiant Power Orb",
+   "recipe": {
+      "A1": "WOLF_TOOTH:2",
+      "A2": "WOLF_TOOTH:2",
+      "A3": "WOLF_TOOTH:2",
+      "B1": "WOLF_TOOTH:2",
+      "B2": "ENCHANTED_EMERALD:8",
+      "B3": "WOLF_TOOTH:2",
+      "C1": "WOLF_TOOTH:2",
+      "C2": "WOLF_TOOTH:2",
+      "C3": "WOLF_TOOTH:2"
+   },
+   "internalname": "RADIANT_POWER_ORB",
+   "crafttext": ""
+}

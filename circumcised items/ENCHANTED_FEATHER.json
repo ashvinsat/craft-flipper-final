@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Feather",
+   "recipe": {
+      "A1": "",
+      "A2": "FEATHER:32",
+      "A3": "",
+      "B1": "FEATHER:32",
+      "B2": "FEATHER:32",
+      "B3": "FEATHER:32",
+      "C1": "",
+      "C2": "FEATHER:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_FEATHER",
+   "crafttext": "Requires: Feather V"
+}

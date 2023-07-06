@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aPromising Axe",
+   "recipe": {
+      "A1": "",
+      "A2": "IRON_BLOCK:1",
+      "A3": "IRON_BLOCK:1",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "IRON_BLOCK:1",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+   },
+   "internalname": "PROMISING_AXE",
+   "crafttext": ""
+}

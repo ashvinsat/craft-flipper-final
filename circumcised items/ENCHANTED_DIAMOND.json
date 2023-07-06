@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Diamond",
+   "recipe": {
+      "A1": "",
+      "A2": "DIAMOND:32",
+      "A3": "",
+      "B1": "DIAMOND:32",
+      "B2": "DIAMOND:32",
+      "B3": "DIAMOND:32",
+      "C1": "",
+      "C2": "DIAMOND:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_DIAMOND",
+   "crafttext": "Requires: Diamond IV"
+}

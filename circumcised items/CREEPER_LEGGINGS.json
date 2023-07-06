@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Creeper Pants",
+   "recipe": {
+      "A1": "ENCHANTED_GUNPOWDER:32",
+      "A2": "ENCHANTED_GUNPOWDER:32",
+      "A3": "ENCHANTED_GUNPOWDER:32",
+      "B1": "ENCHANTED_GUNPOWDER:32",
+      "B2": "",
+      "B3": "ENCHANTED_GUNPOWDER:32",
+      "C1": "ENCHANTED_GUNPOWDER:32",
+      "C2": "",
+      "C3": "ENCHANTED_GUNPOWDER:32"
+   },
+   "internalname": "CREEPER_LEGGINGS",
+   "crafttext": "Requires: Gunpowder VIII"
+}

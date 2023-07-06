@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Thunder Chestplate",
+   "recipe": {
+      "A1": "THUNDER_SHARDS:1",
+      "A2": "",
+      "A3": "THUNDER_SHARDS:1",
+      "B1": "THUNDER_SHARDS:1",
+      "B2": "THUNDER_SHARDS:1",
+      "B3": "THUNDER_SHARDS:1",
+      "C1": "THUNDER_SHARDS:1",
+      "C2": "THUNDER_SHARDS:1",
+      "C3": "THUNDER_SHARDS:1"
+   },
+   "internalname": "THUNDER_CHESTPLATE",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "internalname": "MASTIFF_LEGGINGS",
+   "displayname": "\u00a75Mastiff Leggings",
+   "recipe": {
+      "A1": "GOLDEN_TOOTH:1",
+      "A2": "ENCHANTED_DIAMOND:16",
+      "A3": "GOLDEN_TOOTH:1",
+      "B1": "ENCHANTED_DIAMOND:16",
+      "B2": "GROWTH_LEGGINGS:1",
+      "B3": "ENCHANTED_DIAMOND:16",
+      "C1": "GOLDEN_TOOTH:1",
+      "C2": "ENCHANTED_DIAMOND:16",
+      "C3": "GOLDEN_TOOTH:1"
+   },
+   "crafttext": ""
+}

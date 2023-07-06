@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Bat Person Artifact",
+   "recipe": {
+      "A1": "SPOOKY_SHARD:4",
+      "A2": "ECTOPLASM:32",
+      "A3": "SPOOKY_SHARD:4",
+      "B1": "ECTOPLASM:32",
+      "B2": "BAT_PERSON_RING:1",
+      "B3": "ECTOPLASM:32",
+      "C1": "SPOOKY_SHARD:4",
+      "C2": "ECTOPLASM:32",
+      "C3": "SPOOKY_SHARD:4"
+   },
+   "internalname": "BAT_PERSON_ARTIFACT",
+   "crafttext": ""
+}

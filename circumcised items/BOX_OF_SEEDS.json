@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Box of Seeds",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SEEDS:32",
+      "A3": "",
+      "B1": "ENCHANTED_SEEDS:32",
+      "B2": "ENCHANTED_SEEDS:32",
+      "B3": "ENCHANTED_SEEDS:32",
+      "C1": "",
+      "C2": "ENCHANTED_SEEDS:32",
+      "C3": ""
+   },
+   "internalname": "BOX_OF_SEEDS",
+   "crafttext": "Requires: Seeds VII"
+}

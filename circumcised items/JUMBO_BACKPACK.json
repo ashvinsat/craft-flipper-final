@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Jumbo Backpack",
+   "recipe": {
+      "A1": "",
+      "A2": "JUMBO_BACKPACK_UPGRADE:1",
+      "A3": "",
+      "B1": "",
+      "B2": "GREATER_BACKPACK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "JUMBO_BACKPACK",
+   "crafttext": ""
+}

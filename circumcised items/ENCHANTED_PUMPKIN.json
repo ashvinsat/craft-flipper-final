@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Pumpkin",
+   "recipe": {
+      "A1": "",
+      "A2": "PUMPKIN:32",
+      "A3": "",
+      "B1": "PUMPKIN:32",
+      "B2": "PUMPKIN:32",
+      "B3": "PUMPKIN:32",
+      "C1": "",
+      "C2": "PUMPKIN:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_PUMPKIN",
+   "crafttext": "Requires: Pumpkin III"
+}

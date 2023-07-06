@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Beastmaster Crest",
+   "recipe": {
+      "A1": "GRIFFIN_FEATHER:8",
+      "A2": "ANCIENT_CLAW:64",
+      "A3": "GRIFFIN_FEATHER:8",
+      "B1": "ANCIENT_CLAW:64",
+      "B2": "BEASTMASTER_CREST_UNCOMMON:1",
+      "B3": "ANCIENT_CLAW:64",
+      "C1": "GRIFFIN_FEATHER:8",
+      "C2": "ANCIENT_CLAW:64",
+      "C3": "GRIFFIN_FEATHER:8"
+   },
+   "internalname": "BEASTMASTER_CREST_RARE",
+   "crafttext": ""
+}

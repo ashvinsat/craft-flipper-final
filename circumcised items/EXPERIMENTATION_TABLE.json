@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Experimentation Table",
+   "recipe": {
+      "A1": "LOG:1",
+      "A2": "LOG:1",
+      "A3": "LOG:1",
+      "B1": "LOG:1",
+      "B2": "EXP_BOTTLE:1",
+      "B3": "LOG:1",
+      "C1": "LOG:1",
+      "C2": "LOG:1",
+      "C3": "LOG:1"
+   },
+   "internalname": "EXPERIMENTATION_TABLE",
+   "crafttext": "Requires: Enchanting X"
+}

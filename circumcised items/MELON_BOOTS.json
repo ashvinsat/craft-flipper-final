@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aMelon Boots",
+   "recipe": {
+      "A1": "ENCHANTED_MELON_BLOCK:5",
+      "A2": "",
+      "A3": "ENCHANTED_MELON_BLOCK:5",
+      "B1": "ENCHANTED_MELON_BLOCK:5",
+      "B2": "",
+      "B3": "ENCHANTED_MELON_BLOCK:5",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "MELON_BOOTS",
+   "crafttext": ""
+}

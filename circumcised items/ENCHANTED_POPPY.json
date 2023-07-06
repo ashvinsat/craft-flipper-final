@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a7aEnchanted Poppy",
+   "recipe": {
+      "A1": "RED_ROSE:64",
+      "A2": "RED_ROSE:64",
+      "A3": "RED_ROSE:64",
+      "B1": "RED_ROSE:64",
+      "B2": "RED_ROSE:64",
+      "B3": "RED_ROSE:64",
+      "C1": "RED_ROSE:64",
+      "C2": "RED_ROSE:64",
+      "C3": "RED_ROSE:64"
+   },
+   "internalname": "ENCHANTED_POPPY"
+}

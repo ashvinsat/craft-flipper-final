@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Spider's Boots",
+   "recipe": {
+      "A1": "ENCHANTED_STRING:64",
+      "A2": "",
+      "A3": "ENCHANTED_STRING:64",
+      "B1": "ENCHANTED_STRING:64",
+      "B2": "",
+      "B3": "ENCHANTED_STRING:64",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SPIDER_BOOTS",
+   "crafttext": "Requires: String VIII"
+}

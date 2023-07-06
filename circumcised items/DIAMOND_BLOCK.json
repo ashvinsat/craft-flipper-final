@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a7fBlock of Diamond",
+   "internalname": "DIAMOND_BLOCK",
+   "recipe": {
+      "A1": "DIAMOND:1",
+      "A2": "DIAMOND:1",
+      "A3": "DIAMOND:1",
+      "B1": "DIAMOND:1",
+      "B2": "DIAMOND:1",
+      "B3": "DIAMOND:1",
+      "C1": "DIAMOND:1",
+      "C2": "DIAMOND:1",
+      "C3": "DIAMOND:1"
+   }
+}

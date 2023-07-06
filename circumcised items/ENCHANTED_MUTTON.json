@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Mutton",
+   "recipe": {
+      "A1": "",
+      "A2": "MUTTON:32",
+      "A3": "",
+      "B1": "MUTTON:32",
+      "B2": "MUTTON:32",
+      "B3": "MUTTON:32",
+      "C1": "",
+      "C2": "MUTTON:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_MUTTON",
+   "crafttext": "Requires: Mutton V"
+}

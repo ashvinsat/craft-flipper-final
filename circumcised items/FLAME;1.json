@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fEnchanted Book",
+   "recipe": {
+      "A1": "BLAZE_ROD:2",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "PAPER:1",
+      "B3": "PAPER:1",
+      "C1": "",
+      "C2": "PAPER:1",
+      "C3": "BOW:1"
+   },
+   "internalname": "FLAME;1",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aBlood Donor Ring",
+   "recipe": {
+      "A1": "HEMOGLASS:12",
+      "A2": "HEMOGLASS:12",
+      "A3": "HEMOGLASS:12",
+      "B1": "HEMOGLASS:12",
+      "B2": "BLOOD_DONOR_TALISMAN:1",
+      "B3": "HEMOGLASS:12",
+      "C1": "HEMOGLASS:12",
+      "C2": "HEMOGLASS:12",
+      "C3": "HEMOGLASS:12"
+   },
+   "internalname": "BLOOD_DONOR_RING",
+   "crafttext": "Requires: Hemovibe VI"
+}

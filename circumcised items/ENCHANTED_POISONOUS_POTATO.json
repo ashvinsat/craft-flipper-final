@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a7aEnchanted Poisonous Potato",
+   "recipe": {
+      "A1": "",
+      "A2": "POISONOUS_POTATO:32",
+      "A3": "",
+      "B1": "POISONOUS_POTATO:32",
+      "B2": "POISONOUS_POTATO:32",
+      "B3": "POISONOUS_POTATO:32",
+      "C1": "",
+      "C2": "POISONOUS_POTATO:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_POISONOUS_POTATO"
+}

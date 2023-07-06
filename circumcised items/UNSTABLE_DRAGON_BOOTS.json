@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Unstable Dragon Boots",
+   "recipe": {
+      "A1": "UNSTABLE_FRAGMENT:10",
+      "A2": "",
+      "A3": "UNSTABLE_FRAGMENT:10",
+      "B1": "UNSTABLE_FRAGMENT:10",
+      "B2": "",
+      "B3": "UNSTABLE_FRAGMENT:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "UNSTABLE_DRAGON_BOOTS",
+   "crafttext": ""
+}

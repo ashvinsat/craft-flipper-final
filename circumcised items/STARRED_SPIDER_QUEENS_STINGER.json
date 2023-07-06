@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75\u269a Spider Queen's Stinger",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_DARK_OAK_LOG:30",
+      "A3": "SOUL_STRING:50",
+      "B1": "DARK_QUEENS_SOUL_DROP:1",
+      "B2": "SPIDER_QUEENS_STINGER:1",
+      "B3": "SOUL_STRING:50",
+      "C1": "",
+      "C2": "ENCHANTED_DARK_OAK_LOG:30",
+      "C3": "SOUL_STRING:50"
+   },
+   "internalname": "STARRED_SPIDER_QUEENS_STINGER",
+   "crafttext": ""
+}

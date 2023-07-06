@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Lesser Orb of Healing",
+   "recipe": {
+      "A1": "MIMIC_FRAGMENT:1",
+      "A2": "MIMIC_FRAGMENT:1",
+      "A3": "MIMIC_FRAGMENT:1",
+      "B1": "MIMIC_FRAGMENT:1",
+      "B2": "MIMIC_FRAGMENT:1",
+      "B3": "MIMIC_FRAGMENT:1",
+      "C1": "MIMIC_FRAGMENT:1",
+      "C2": "MIMIC_FRAGMENT:1",
+      "C3": "MIMIC_FRAGMENT:1"
+   },
+   "internalname": "LESSER_ORB_OF_HEALING",
+   "crafttext": ""
+}

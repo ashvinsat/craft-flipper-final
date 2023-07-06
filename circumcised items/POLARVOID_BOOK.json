@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Polarvoid Book",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "FROSTY_CRUX:1",
+      "B3": "FROSTY_CRUX:1",
+      "C1": "",
+      "C2": "FROSTY_CRUX:1",
+      "C3": "METAL_HEART:20"
+   },
+   "internalname": "POLARVOID_BOOK",
+   "crafttext": "Requires: Living Metal Heart IV"
+}

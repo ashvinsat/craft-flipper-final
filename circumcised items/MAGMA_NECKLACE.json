@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Magma Necklace",
+   "recipe": {
+      "A1": "ENCHANTED_MAGMA_CREAM:3",
+      "A2": "",
+      "A3": "ENCHANTED_MAGMA_CREAM:3",
+      "B1": "ENCHANTED_MAGMA_CREAM:3",
+      "B2": "",
+      "B3": "ENCHANTED_MAGMA_CREAM:3",
+      "C1": "",
+      "C2": "MAGMA_CHUNK:20",
+      "C3": ""
+   },
+   "internalname": "MAGMA_NECKLACE",
+   "crafttext": ""
+}

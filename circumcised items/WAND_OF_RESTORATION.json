@@ -1,0 +1,16 @@
+{
+   "internalname": "WAND_OF_RESTORATION",
+   "displayname": "\u00a75Wand of Restoration",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "REVENANT_VISCERA:16",
+      "B1": "",
+      "B2": "WAND_OF_MENDING:1",
+      "B3": "",
+      "C1": "ENCHANTED_DARK_OAK_LOG:64",
+      "C2": "",
+      "C3": ""
+   },
+   "crafttext": ""
+}

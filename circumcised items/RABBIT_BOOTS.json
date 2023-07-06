@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fRabbit Boots",
+   "recipe": {
+      "A1": "ENCHANTED_RABBIT_HIDE:5",
+      "A2": "",
+      "A3": "ENCHANTED_RABBIT_HIDE:5",
+      "B1": "ENCHANTED_RABBIT_FOOT:10",
+      "B2": "",
+      "B3": "ENCHANTED_RABBIT_FOOT:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "RABBIT_BOOTS",
+   "crafttext": "Requires: Raw Rabbit IX"
+}

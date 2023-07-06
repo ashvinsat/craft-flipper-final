@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Ghoul Buster",
+   "recipe": {
+      "A1": "",
+      "A2": "ECTOPLASM:16",
+      "A3": "",
+      "B1": "SPOOKY_SHARD:4",
+      "B2": "ECTOPLASM:16",
+      "B3": "SPOOKY_SHARD:4",
+      "C1": "",
+      "C2": "PURPLE_CANDY:64",
+      "C3": ""
+   },
+   "internalname": "GHOUL_BUSTER",
+   "crafttext": ""
+}

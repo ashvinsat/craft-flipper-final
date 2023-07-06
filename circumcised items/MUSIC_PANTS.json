@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Stereo Pants",
+   "recipe": {
+      "A1": "ENCHANTED_SPONGE:1",
+      "A2": "ENCHANTED_SPONGE:1",
+      "A3": "ENCHANTED_SPONGE:1",
+      "B1": "PRISMARINE_SHARD:1",
+      "B2": "",
+      "B3": "PRISMARINE_SHARD:1",
+      "C1": "PRISMARINE_SHARD:1",
+      "C2": "",
+      "C3": "PRISMARINE_SHARD:1"
+   },
+   "internalname": "MUSIC_PANTS",
+   "crafttext": "Requires: Sponge V"
+}

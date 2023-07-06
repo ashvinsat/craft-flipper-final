@@ -1,0 +1,16 @@
+{
+   "internalname": "REAPER_SWORD",
+   "displayname": "\u00a75Reaper Falchion",
+   "recipe": {
+      "A1": "",
+      "A2": "REVIVED_HEART:1",
+      "A3": "",
+      "B1": "",
+      "B2": "REVENANT_CATALYST:1",
+      "B3": "",
+      "C1": "",
+      "C2": "REVENANT_SWORD:1",
+      "C3": ""
+   },
+   "crafttext": ""
+}

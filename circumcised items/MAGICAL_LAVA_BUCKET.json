@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aMagical Lava Bucket",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "IRON_INGOT:1",
+      "B2": "ENCHANTED_NETHERRACK:1",
+      "B3": "IRON_INGOT:1",
+      "C1": "",
+      "C2": "IRON_INGOT:1",
+      "C3": ""
+   },
+   "internalname": "MAGICAL_LAVA_BUCKET",
+   "crafttext": "Requires Netherrack V"
+}

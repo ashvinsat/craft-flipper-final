@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Etherwarp Conduit",
+   "recipe": {
+      "A1": "NULL_OVOID:3",
+      "A2": "NULL_OVOID:3",
+      "A3": "NULL_OVOID:3",
+      "B1": "NULL_OVOID:3",
+      "B2": "REFINED_TITANIUM:16",
+      "B3": "NULL_OVOID:3",
+      "C1": "NULL_OVOID:3",
+      "C2": "NULL_OVOID:3",
+      "C3": "NULL_OVOID:3"
+   },
+   "internalname": "ETHERWARP_CONDUIT",
+   "crafttext": ""
+}

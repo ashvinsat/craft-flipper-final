@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fEnchanted Book",
+   "recipe": {
+      "A1": "",
+      "A2": "SHARK_WATER_ORB:1",
+      "A3": "",
+      "B1": "SPOOKY_WATER_ORB:1",
+      "B2": "BOBBIN_SCRIPTURES:1",
+      "B3": "WINTER_WATER_ORB:1",
+      "C1": "",
+      "C2": "LAVA_WATER_ORB:1",
+      "C3": ""
+   },
+   "internalname": "ULTIMATE_BOBBIN_TIME;3",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "internalname": "REAPER_MASK",
+   "displayname": "\u00a76Reaper Mask",
+   "recipe": {
+      "A1": "REVENANT_VISCERA:32",
+      "A2": "",
+      "A3": "REVENANT_VISCERA:32",
+      "B1": "BEHEADED_HORROR:1",
+      "B2": "ENCHANTED_STRING:32",
+      "B3": "REVIVED_HEART:1",
+      "C1": "REVENANT_VISCERA:32",
+      "C2": "",
+      "C3": "REVENANT_VISCERA:32"
+   },
+   "crafttext": ""
+}

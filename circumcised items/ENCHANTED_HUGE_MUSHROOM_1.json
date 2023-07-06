@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Brown Mushroom Block",
+   "recipe": {
+      "A1": "ENCHANTED_BROWN_MUSHROOM:8",
+      "A2": "ENCHANTED_BROWN_MUSHROOM:8",
+      "A3": "",
+      "B1": "ENCHANTED_BROWN_MUSHROOM:8",
+      "B2": "ENCHANTED_BROWN_MUSHROOM:8",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_HUGE_MUSHROOM_1",
+   "crafttext": "Requires: Mushroom VIII"
+}

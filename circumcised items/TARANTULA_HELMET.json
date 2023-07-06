@@ -1,0 +1,16 @@
+{
+   "internalname": "TARANTULA_HELMET",
+   "displayname": "\u00a75Tarantula Helmet",
+   "recipe": {
+      "A1": "TARANTULA_SILK:1",
+      "A2": "TARANTULA_SILK:1",
+      "A3": "TARANTULA_SILK:1",
+      "B1": "ENCHANTED_IRON:64",
+      "B2": "",
+      "B3": "ENCHANTED_IRON:64",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "crafttext": ""
+}

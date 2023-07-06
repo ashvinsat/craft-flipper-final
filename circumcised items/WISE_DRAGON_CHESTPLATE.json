@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Wise Dragon Chestplate",
+   "recipe": {
+      "A1": "WISE_FRAGMENT:10",
+      "A2": "",
+      "A3": "WISE_FRAGMENT:10",
+      "B1": "WISE_FRAGMENT:10",
+      "B2": "WISE_FRAGMENT:10",
+      "B3": "WISE_FRAGMENT:10",
+      "C1": "WISE_FRAGMENT:10",
+      "C2": "WISE_FRAGMENT:10",
+      "C3": "WISE_FRAGMENT:10"
+   },
+   "internalname": "WISE_DRAGON_CHESTPLATE",
+   "crafttext": ""
+}

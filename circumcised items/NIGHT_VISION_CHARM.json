@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fNight Vision Charm",
+   "recipe": {
+      "A1": "ENCHANTED_RED_MUSHROOM:1",
+      "A2": "ENCHANTED_BROWN_MUSHROOM:1",
+      "A3": "ENCHANTED_RED_MUSHROOM:1",
+      "B1": "ENCHANTED_BROWN_MUSHROOM:1",
+      "B2": "",
+      "B3": "ENCHANTED_BROWN_MUSHROOM:1",
+      "C1": "ENCHANTED_RED_MUSHROOM:1",
+      "C2": "ENCHANTED_BROWN_MUSHROOM:1",
+      "C3": "ENCHANTED_RED_MUSHROOM:1"
+   },
+   "internalname": "NIGHT_VISION_CHARM",
+   "crafttext": "Requires: Mushroom VII"
+}

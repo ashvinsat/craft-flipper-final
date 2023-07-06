@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Cooked Fish",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_RAW_FISH:32",
+      "A3": "",
+      "B1": "ENCHANTED_RAW_FISH:32",
+      "B2": "ENCHANTED_RAW_FISH:32",
+      "B3": "ENCHANTED_RAW_FISH:32",
+      "C1": "",
+      "C2": "ENCHANTED_RAW_FISH:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_COOKED_FISH",
+   "crafttext": "Requires: Raw Fish VIII"
+}

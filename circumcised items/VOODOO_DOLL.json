@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Voodoo Doll",
+   "recipe": {
+      "A1": "ARROW:64",
+      "A2": "ENCHANTED_GHAST_TEAR:32",
+      "A3": "ARROW:64",
+      "B1": "ENCHANTED_PUFFERFISH:1",
+      "B2": "PUMPKIN_GENERATOR_9:1",
+      "B3": "ENCHANTED_PUFFERFISH:1",
+      "C1": "ARROW:64",
+      "C2": "CRYSTALLIZED_HEART:1",
+      "C3": "ARROW:64"
+   },
+   "internalname": "VOODOO_DOLL",
+   "crafttext": ""
+}

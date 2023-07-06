@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Nether Wart",
+   "recipe": {
+      "A1": "",
+      "A2": "NETHER_STALK:32",
+      "A3": "",
+      "B1": "NETHER_STALK:32",
+      "B2": "NETHER_STALK:32",
+      "B3": "NETHER_STALK:32",
+      "C1": "",
+      "C2": "NETHER_STALK:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_NETHER_STALK",
+   "crafttext": "Requires: Nether Wart IV"
+}

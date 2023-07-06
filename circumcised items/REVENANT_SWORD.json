@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Revenant Falchion",
+   "recipe": {
+      "A1": "",
+      "A2": "CRYSTALLIZED_HEART:1",
+      "A3": "",
+      "B1": "",
+      "B2": "UNDEAD_CATALYST:1",
+      "B3": "",
+      "C1": "",
+      "C2": "UNDEAD_SWORD:1",
+      "C3": ""
+   },
+   "internalname": "REVENANT_SWORD",
+   "crafttext": ""
+}

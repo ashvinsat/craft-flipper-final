@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Diver's Boots",
+   "recipe": {
+      "A1": "DIVER_FRAGMENT:1",
+      "A2": "",
+      "A3": "DIVER_FRAGMENT:1",
+      "B1": "DIVER_FRAGMENT:1",
+      "B2": "",
+      "B3": "DIVER_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "DIVER_BOOTS",
+   "crafttext": ""
+}

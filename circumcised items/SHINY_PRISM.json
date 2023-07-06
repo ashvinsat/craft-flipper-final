@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Shiny Prism",
+   "recipe": {
+      "A1": "ENCHANTED_GLOWSTONE_DUST:10",
+      "A2": "ENCHANTED_GLOWSTONE_DUST:10",
+      "A3": "ENCHANTED_GLOWSTONE_DUST:10",
+      "B1": "ENCHANTED_GLOWSTONE_DUST:10",
+      "B2": "GAZING_PEARL:10",
+      "B3": "ENCHANTED_GLOWSTONE_DUST:10",
+      "C1": "ENCHANTED_GLOWSTONE_DUST:10",
+      "C2": "ENCHANTED_GLOWSTONE_DUST:10",
+      "C3": "ENCHANTED_GLOWSTONE_DUST:10"
+   },
+   "internalname": "SHINY_PRISM",
+   "crafttext": ""
+}

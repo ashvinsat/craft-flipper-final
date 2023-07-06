@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Revenant Leggings",
+   "recipe": {
+      "A1": "REVENANT_VISCERA:1",
+      "A2": "REVENANT_VISCERA:1",
+      "A3": "REVENANT_VISCERA:1",
+      "B1": "ENCHANTED_DIAMOND:16",
+      "B2": "",
+      "B3": "ENCHANTED_DIAMOND:16",
+      "C1": "ENCHANTED_DIAMOND:16",
+      "C2": "",
+      "C3": "ENCHANTED_DIAMOND:16"
+   },
+   "internalname": "REVENANT_LEGGINGS",
+   "crafttext": "Requires Zombie Slayer 4"
+}

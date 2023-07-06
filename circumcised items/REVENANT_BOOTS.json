@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Revenant Boots",
+   "recipe": {
+      "A1": "ENCHANTED_DIAMOND:32",
+      "A2": "",
+      "A3": "ENCHANTED_DIAMOND:32",
+      "B1": "REVENANT_VISCERA:1",
+      "B2": "",
+      "B3": "REVENANT_VISCERA:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "REVENANT_BOOTS",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Heat Helmet",
+   "recipe": {
+      "A1": "HARD_STONE:40",
+      "A2": "HARD_STONE:40",
+      "A3": "HARD_STONE:40",
+      "B1": "HARD_STONE:40",
+      "B2": "",
+      "B3": "HARD_STONE:40",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "HEAT_HELMET",
+   "crafttext": "Requires Hard Stone Collection II"
+}

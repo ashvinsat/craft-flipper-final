@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76\u269a Shadow Fury",
+   "recipe": {
+      "A1": "LIVID_FRAGMENT:1",
+      "A2": "LIVID_FRAGMENT:1",
+      "A3": "LIVID_FRAGMENT:1",
+      "B1": "LIVID_FRAGMENT:1",
+      "B2": "SHADOW_FURY:1",
+      "B3": "LIVID_FRAGMENT:1",
+      "C1": "LIVID_FRAGMENT:1",
+      "C2": "LIVID_FRAGMENT:1",
+      "C3": "LIVID_FRAGMENT:1"
+   },
+   "internalname": "STARRED_SHADOW_FURY",
+   "crafttext": ""
+}

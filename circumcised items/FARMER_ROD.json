@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aFarmer's Rod",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "ENCHANTED_CLAY_BALL:1",
+      "B1": "",
+      "B2": "HAY_BLOCK:32",
+      "B3": "STRING:1",
+      "C1": "HAY_BLOCK:32",
+      "C2": "",
+      "C3": "STRING:1"
+   },
+   "internalname": "FARMER_ROD",
+   "crafttext": "Requires: Clay V"
+}

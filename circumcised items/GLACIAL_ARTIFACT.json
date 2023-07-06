@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Glacial Artifact",
+   "recipe": {
+      "A1": "GLACIAL_FRAGMENT:10",
+      "A2": "ENCHANTED_PACKED_ICE:2",
+      "A3": "GLACIAL_FRAGMENT:10",
+      "B1": "ENCHANTED_PACKED_ICE:2",
+      "B2": "GLACIAL_RING:1",
+      "B3": "ENCHANTED_PACKED_ICE:2",
+      "C1": "GLACIAL_FRAGMENT:10",
+      "C2": "ENCHANTED_PACKED_ICE:2",
+      "C3": "GLACIAL_FRAGMENT:10"
+   },
+   "internalname": "GLACIAL_ARTIFACT",
+   "crafttext": "Requires: Ice VIII"
+}

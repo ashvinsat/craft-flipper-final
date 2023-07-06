@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Lush Berberis",
+   "recipe": {
+      "A1": "",
+      "A2": "LUSH_BERBERIS:32",
+      "A3": "",
+      "B1": "LUSH_BERBERIS:32",
+      "B2": "LUSH_BERBERIS:32",
+      "B3": "LUSH_BERBERIS:32",
+      "C1": "",
+      "C2": "LUSH_BERBERIS:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_LUSH_BERBERIS",
+   "crafttext": ""
+}

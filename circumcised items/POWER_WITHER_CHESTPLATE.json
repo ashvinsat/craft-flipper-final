@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Necron's Chestplate",
+   "recipe": {
+      "A1": "GIANT_FRAGMENT_DIAMOND:1",
+      "A2": "GIANT_FRAGMENT_DIAMOND:1",
+      "A3": "GIANT_FRAGMENT_DIAMOND:1",
+      "B1": "GIANT_FRAGMENT_DIAMOND:1",
+      "B2": "WITHER_CHESTPLATE:1",
+      "B3": "GIANT_FRAGMENT_DIAMOND:1",
+      "C1": "GIANT_FRAGMENT_DIAMOND:1",
+      "C2": "GIANT_FRAGMENT_DIAMOND:1",
+      "C3": "GIANT_FRAGMENT_DIAMOND:1"
+   },
+   "internalname": "POWER_WITHER_CHESTPLATE",
+   "crafttext": ""
+}

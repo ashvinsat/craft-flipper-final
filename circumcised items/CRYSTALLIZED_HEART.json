@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a79Crystallized Heart",
+   "recipe": {
+      "A1": "ENCHANTED_DIAMOND:32",
+      "A2": "ENCHANTED_DIAMOND:32",
+      "A3": "ENCHANTED_DIAMOND:32",
+      "B1": "ENCHANTED_DIAMOND:32",
+      "B2": "ZOMBIE_HEART:1",
+      "B3": "ENCHANTED_DIAMOND:32",
+      "C1": "ENCHANTED_DIAMOND:32",
+      "C2": "ENCHANTED_DIAMOND:32",
+      "C3": "ENCHANTED_DIAMOND:32"
+   },
+   "internalname": "CRYSTALLIZED_HEART",
+   "crafttext": ""
+}

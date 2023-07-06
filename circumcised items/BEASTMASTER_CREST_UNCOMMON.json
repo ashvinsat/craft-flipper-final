@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aBeastmaster Crest",
+   "recipe": {
+      "A1": "GRIFFIN_FEATHER:2",
+      "A2": "ANCIENT_CLAW:20",
+      "A3": "GRIFFIN_FEATHER:2",
+      "B1": "ANCIENT_CLAW:20",
+      "B2": "BEASTMASTER_CREST_COMMON:1",
+      "B3": "ANCIENT_CLAW:20",
+      "C1": "GRIFFIN_FEATHER:2",
+      "C2": "ANCIENT_CLAW:20",
+      "C3": "GRIFFIN_FEATHER:2"
+   },
+   "internalname": "BEASTMASTER_CREST_UNCOMMON",
+   "crafttext": ""
+}

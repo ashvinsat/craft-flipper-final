@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aSoulflow Pile",
+   "recipe": {
+      "A1": "NULL_SPHERE:10",
+      "A2": "NULL_SPHERE:10",
+      "A3": "NULL_SPHERE:10",
+      "B1": "NULL_SPHERE:10",
+      "B2": "NULL_SPHERE:10",
+      "B3": "NULL_SPHERE:10",
+      "C1": "NULL_SPHERE:10",
+      "C2": "NULL_SPHERE:10",
+      "C3": "NULL_SPHERE:10"
+   },
+   "internalname": "SOULFLOW_PILE",
+   "crafttext": ""
+}

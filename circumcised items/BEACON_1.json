@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Beacon I",
+   "recipe": {
+      "A1": "GLASS:1",
+      "A2": "GLASS:1",
+      "A3": "GLASS:1",
+      "B1": "GLASS:1",
+      "B2": "STARFALL:64",
+      "B3": "GLASS:1",
+      "C1": "ENCHANTED_MITHRIL:64",
+      "C2": "ENCHANTED_MITHRIL:64",
+      "C3": "ENCHANTED_MITHRIL:64"
+   },
+   "internalname": "BEACON_1",
+   "crafttext": "Requires: Mithril IX"
+}

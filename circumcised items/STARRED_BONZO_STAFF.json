@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79\u269a Bonzo's Staff",
+   "recipe": {
+      "A1": "BONZO_FRAGMENT:1",
+      "A2": "BONZO_FRAGMENT:1",
+      "A3": "BONZO_FRAGMENT:1",
+      "B1": "BONZO_FRAGMENT:1",
+      "B2": "BONZO_STAFF:1",
+      "B3": "BONZO_FRAGMENT:1",
+      "C1": "BONZO_FRAGMENT:1",
+      "C2": "BONZO_FRAGMENT:1",
+      "C3": "BONZO_FRAGMENT:1"
+   },
+   "internalname": "STARRED_BONZO_STAFF",
+   "crafttext": ""
+}

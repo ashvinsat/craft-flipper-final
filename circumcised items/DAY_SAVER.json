@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aDay Saver",
+   "recipe": {
+      "A1": "GLASS:1",
+      "A2": "GLASS:1",
+      "A3": "GLASS:1",
+      "B1": "QUARTZ:5",
+      "B2": "QUARTZ:5",
+      "B3": "QUARTZ:5",
+      "C1": "DOUBLE_PLANT:1",
+      "C2": "DOUBLE_PLANT:1",
+      "C3": "DOUBLE_PLANT:1"
+   },
+   "internalname": "DAY_SAVER",
+   "crafttext": "Requires: Nether Quartz III"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fPortal to the Spider's Den",
+   "recipe": {
+      "A1": "WEB:16",
+      "A2": "WEB:16",
+      "A3": "WEB:16",
+      "B1": "GRAVEL:16",
+      "B2": "ENDER_PEARL:16",
+      "B3": "GRAVEL:16",
+      "C1": "GRAVEL:16",
+      "C2": "GRAVEL:16",
+      "C3": "GRAVEL:16"
+   },
+   "internalname": "DANGER_1_PORTAL",
+   "crafttext": "Requires: Gravel III"
+}

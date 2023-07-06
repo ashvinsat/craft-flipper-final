@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fCorrupted Bait",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "CORRUPTED_FRAGMENT:1",
+      "B2": "MAGMA_FISH:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "CORRUPTED_BAIT",
+   "crafttext": "Requires: Magmafish V"
+}

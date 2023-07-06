@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aPrismarine Blade",
+   "recipe": {
+      "A1": "",
+      "A2": "PRISMARINE_SHARD:32",
+      "A3": "",
+      "B1": "",
+      "B2": "PRISMARINE_SHARD:32",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+   },
+   "internalname": "PRISMARINE_BLADE",
+   "crafttext": "Requires: Prismarine Shard II"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a7dJasper Power Scroll",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_PAPER:16",
+      "B3": "ENCHANTED_PAPER:16",
+      "C1": "",
+      "C2": "ENCHANTED_PAPER:16",
+      "C3": "FINE_JASPER_GEM:16"
+   },
+   "internalname": "JASPER_POWER_SCROLL",
+   "crafttext": "Requires Gemstone Collection VII"
+}

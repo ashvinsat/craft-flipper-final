@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Hopper",
+   "recipe": {
+      "A1": "ENCHANTED_IRON_BLOCK:1",
+      "A2": "",
+      "A3": "ENCHANTED_IRON_BLOCK:1",
+      "B1": "ENCHANTED_IRON_BLOCK:1",
+      "B2": "CHEST:1",
+      "B3": "ENCHANTED_IRON_BLOCK:1",
+      "C1": "",
+      "C2": "ENCHANTED_IRON_BLOCK:1",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_HOPPER",
+   "crafttext": "Requires: Iron Ingot IX"
+}

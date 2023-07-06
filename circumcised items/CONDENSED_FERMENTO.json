@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Condensed Fermento",
+   "recipe": {
+      "A1": "FERMENTO:1",
+      "A2": "FERMENTO:1",
+      "A3": "FERMENTO:1",
+      "B1": "FERMENTO:1",
+      "B2": "FERMENTO:1",
+      "B3": "FERMENTO:1",
+      "C1": "FERMENTO:1",
+      "C2": "FERMENTO:1",
+      "C3": "FERMENTO:1"
+   },
+   "internalname": "CONDENSED_FERMENTO",
+   "crafttext": ""
+}

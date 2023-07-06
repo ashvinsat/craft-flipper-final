@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted End Stone",
+   "recipe": {
+      "A1": "",
+      "A2": "ENDER_STONE:32",
+      "A3": "",
+      "B1": "ENDER_STONE:32",
+      "B2": "ENDER_STONE:32",
+      "B3": "ENDER_STONE:32",
+      "C1": "",
+      "C2": "ENDER_STONE:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_ENDSTONE",
+   "crafttext": "Requires: End Stone IV"
+}

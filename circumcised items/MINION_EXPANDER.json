@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Minion Expander",
+   "recipe": {
+      "A1": "ENCHANTED_QUARTZ:2",
+      "A2": "ENCHANTED_QUARTZ:2",
+      "A3": "ENCHANTED_QUARTZ:2",
+      "B1": "ENCHANTED_QUARTZ:2",
+      "B2": "ENCHANTED_REDSTONE:2",
+      "B3": "ENCHANTED_QUARTZ:2",
+      "C1": "ENCHANTED_QUARTZ:2",
+      "C2": "ENCHANTED_QUARTZ:2",
+      "C3": "ENCHANTED_QUARTZ:2"
+   },
+   "internalname": "MINION_EXPANDER",
+   "crafttext": "Requires: Nether Quartz V"
+}

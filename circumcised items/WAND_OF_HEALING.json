@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aWand of Healing",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "REVENANT_FLESH:8",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "",
+      "C1": "REVENANT_FLESH:8",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "WAND_OF_HEALING",
+   "crafttext": ""
+}

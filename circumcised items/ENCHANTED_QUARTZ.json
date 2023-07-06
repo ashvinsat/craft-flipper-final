@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Quartz",
+   "recipe": {
+      "A1": "",
+      "A2": "QUARTZ:32",
+      "A3": "",
+      "B1": "QUARTZ:32",
+      "B2": "QUARTZ:32",
+      "B3": "QUARTZ:32",
+      "C1": "",
+      "C2": "QUARTZ:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_QUARTZ",
+   "crafttext": "Requires: Nether Quartz IV"
+}

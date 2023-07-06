@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a76Bat Person Helmet",
+   "recipe": {
+      "A1": "SPOOKY_SHARD:1",
+      "A2": "SPOOKY_SHARD:1",
+      "A3": "SPOOKY_SHARD:1",
+      "B1": "SPOOKY_SHARD:1",
+      "B2": "SPOOKY_HELMET:1",
+      "B3": "SPOOKY_SHARD:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "BAT_PERSON_HELMET"
+}

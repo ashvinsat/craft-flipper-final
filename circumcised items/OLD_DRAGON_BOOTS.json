@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Old Dragon Boots",
+   "recipe": {
+      "A1": "OLD_FRAGMENT:10",
+      "A2": "",
+      "A3": "OLD_FRAGMENT:10",
+      "B1": "OLD_FRAGMENT:10",
+      "B2": "",
+      "B3": "OLD_FRAGMENT:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "OLD_DRAGON_BOOTS",
+   "crafttext": ""
+}

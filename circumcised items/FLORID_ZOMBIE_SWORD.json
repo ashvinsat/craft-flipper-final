@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Florid Zombie Sword",
+   "recipe": {
+      "A1": "",
+      "A2": "HEALING_TISSUE:12",
+      "A3": "",
+      "B1": "",
+      "B2": "HEALING_TISSUE:12",
+      "B3": "",
+      "C1": "",
+      "C2": "ORNATE_ZOMBIE_SWORD:1",
+      "C3": ""
+   },
+   "internalname": "FLORID_ZOMBIE_SWORD",
+   "crafttext": ""
+}

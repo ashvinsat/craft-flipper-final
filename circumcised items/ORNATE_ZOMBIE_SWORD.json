@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Ornate Zombie Sword",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_GOLD_BLOCK:1",
+      "A3": "",
+      "B1": "",
+      "B2": "GOLDEN_POWDER:1",
+      "B3": "",
+      "C1": "",
+      "C2": "ZOMBIE_SWORD:1",
+      "C3": ""
+   },
+   "internalname": "ORNATE_ZOMBIE_SWORD",
+   "crafttext": ""
+}

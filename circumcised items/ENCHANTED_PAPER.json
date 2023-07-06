@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Paper",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "SUGAR_CANE:64",
+      "B1": "",
+      "B2": "SUGAR_CANE:64",
+      "B3": "",
+      "C1": "SUGAR_CANE:64",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_PAPER",
+   "crafttext": "Requires: Sugar Cane V"
+}

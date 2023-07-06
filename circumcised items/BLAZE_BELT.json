@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Blaze Belt",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_BLAZE_POWDER:3",
+      "B2": "",
+      "B3": "ENCHANTED_BLAZE_POWDER:3",
+      "C1": "ENCHANTED_BLAZE_POWDER:3",
+      "C2": "BLAZE_ASHES:25",
+      "C3": "ENCHANTED_BLAZE_POWDER:3"
+   },
+   "internalname": "BLAZE_BELT",
+   "crafttext": ""
+}

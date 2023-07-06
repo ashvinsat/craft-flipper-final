@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Magma Lord Boots",
+   "recipe": {
+      "A1": "MAGMA_LORD_FRAGMENT:1",
+      "A2": "",
+      "A3": "MAGMA_LORD_FRAGMENT:1",
+      "B1": "MAGMA_LORD_FRAGMENT:1",
+      "B2": "",
+      "B3": "MAGMA_LORD_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "MAGMA_LORD_BOOTS",
+   "crafttext": ""
+}

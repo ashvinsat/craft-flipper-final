@@ -1,0 +1,16 @@
+{
+   "internalname": "REVIVED_HEART",
+   "displayname": "\u00a7f\u00a7f\u00a75Revived Heart",
+   "recipe": {
+      "A1": "ZOMBIE_HEART:1",
+      "A2": "ZOMBIE_HEART:1",
+      "A3": "ZOMBIE_HEART:1",
+      "B1": "ZOMBIE_HEART:1",
+      "B2": "CRYSTALLIZED_HEART:1",
+      "B3": "ZOMBIE_HEART:1",
+      "C1": "ZOMBIE_HEART:1",
+      "C2": "ZOMBIE_HEART:1",
+      "C3": "ZOMBIE_HEART:1"
+   },
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Spiked Atrocity",
+   "recipe": {
+      "A1": "ENCHANTED_INK_SACK:32",
+      "A2": "SPIKED_BAIT:32",
+      "A3": "ENCHANTED_INK_SACK:32",
+      "B1": "SPIKED_BAIT:32",
+      "B2": "BAIT_RING:1",
+      "B3": "SPIKED_BAIT:32",
+      "C1": "ENCHANTED_INK_SACK:32",
+      "C2": "SPIKED_BAIT:32",
+      "C3": "ENCHANTED_INK_SACK:32"
+   },
+   "internalname": "SPIKED_ATROCITY",
+   "crafttext": ""
+}

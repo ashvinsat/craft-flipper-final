@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Protector Dragon Chestplate",
+   "recipe": {
+      "A1": "PROTECTOR_FRAGMENT:10",
+      "A2": "",
+      "A3": "PROTECTOR_FRAGMENT:10",
+      "B1": "PROTECTOR_FRAGMENT:10",
+      "B2": "PROTECTOR_FRAGMENT:10",
+      "B3": "PROTECTOR_FRAGMENT:10",
+      "C1": "PROTECTOR_FRAGMENT:10",
+      "C2": "PROTECTOR_FRAGMENT:10",
+      "C3": "PROTECTOR_FRAGMENT:10"
+   },
+   "internalname": "PROTECTOR_DRAGON_CHESTPLATE",
+   "crafttext": ""
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aHealing Ring",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_WATER_LILY:1",
+      "A3": "",
+      "B1": "ENCHANTED_WATER_LILY:1",
+      "B2": "HEALING_TALISMAN:1",
+      "B3": "ENCHANTED_WATER_LILY:1",
+      "C1": "",
+      "C2": "ENCHANTED_WATER_LILY:1",
+      "C3": ""
+   },
+   "internalname": "HEALING_RING",
+   "crafttext": "Requires: Lily Pad VIII"
+}

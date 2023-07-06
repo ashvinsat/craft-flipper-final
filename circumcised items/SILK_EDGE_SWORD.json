@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Silk-Edge Sword",
+   "recipe": {
+      "A1": "ENCHANTED_FERMENTED_SPIDER_EYE:6",
+      "A2": "SILKY_LICHEN:1",
+      "A3": "ENCHANTED_FERMENTED_SPIDER_EYE:6",
+      "B1": "ENCHANTED_FERMENTED_SPIDER_EYE:6",
+      "B2": "LEAPING_SWORD:1",
+      "B3": "ENCHANTED_FERMENTED_SPIDER_EYE:6",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SILK_EDGE_SWORD",
+   "crafttext": ""
+}

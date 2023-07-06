@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75\u269a Adaptive Blade",
+   "recipe": {
+      "A1": "SCARF_FRAGMENT:1",
+      "A2": "SCARF_FRAGMENT:1",
+      "A3": "SCARF_FRAGMENT:1",
+      "B1": "SCARF_FRAGMENT:1",
+      "B2": "STONE_BLADE:1",
+      "B3": "SCARF_FRAGMENT:1",
+      "C1": "SCARF_FRAGMENT:1",
+      "C2": "SCARF_FRAGMENT:1",
+      "C3": "SCARF_FRAGMENT:1"
+   },
+   "internalname": "STARRED_STONE_BLADE",
+   "crafttext": ""
+}

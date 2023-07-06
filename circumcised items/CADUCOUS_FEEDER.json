@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Caducous Feeder",
+   "recipe": {
+      "A1": "CADUCOUS_STEM:64",
+      "A2": "",
+      "A3": "CADUCOUS_STEM:64",
+      "B1": "CADUCOUS_STEM:64",
+      "B2": "",
+      "B3": "CADUCOUS_STEM:64",
+      "C1": "CADUCOUS_STEM:64",
+      "C2": "CADUCOUS_STEM:64",
+      "C3": "CADUCOUS_STEM:64"
+   },
+   "internalname": "CADUCOUS_FEEDER",
+   "crafttext": "Requires: Caducous Stem IV"
+}

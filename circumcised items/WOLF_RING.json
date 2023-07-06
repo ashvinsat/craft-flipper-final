@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Wolf Ring",
+   "recipe": {
+      "A1": "ENCHANTED_BONE:2",
+      "A2": "WOLF_TALISMAN:1",
+      "A3": "ENCHANTED_BONE:2",
+      "B1": "ENCHANTED_BONE:2",
+      "B2": "WEAK_WOLF_CATALYST:1",
+      "B3": "ENCHANTED_BONE:2",
+      "C1": "ENCHANTED_BONE:2",
+      "C2": "ENCHANTED_BONE:2",
+      "C3": "ENCHANTED_BONE:2"
+   },
+   "internalname": "WOLF_RING",
+   "crafttext": ""
+}

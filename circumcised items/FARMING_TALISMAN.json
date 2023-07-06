@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fFarming Talisman",
+   "recipe": {
+      "A1": "HAY_BLOCK:1",
+      "A2": "SEEDS:1",
+      "A3": "HAY_BLOCK:1",
+      "B1": "SEEDS:1",
+      "B2": "HAY_BLOCK:1",
+      "B3": "SEEDS:1",
+      "C1": "HAY_BLOCK:1",
+      "C2": "SEEDS:1",
+      "C3": "HAY_BLOCK:1"
+   },
+   "internalname": "FARMING_TALISMAN",
+   "crafttext": "Requires: Wheat IV"
+}

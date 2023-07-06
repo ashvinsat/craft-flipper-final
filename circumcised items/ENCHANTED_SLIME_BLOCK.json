@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Enchanted Slime Block",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SLIME_BALL:32",
+      "A3": "",
+      "B1": "ENCHANTED_SLIME_BALL:32",
+      "B2": "ENCHANTED_SLIME_BALL:32",
+      "B3": "ENCHANTED_SLIME_BALL:32",
+      "C1": "",
+      "C2": "ENCHANTED_SLIME_BALL:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_SLIME_BLOCK",
+   "crafttext": "Requires: Slimeball VIII"
+}

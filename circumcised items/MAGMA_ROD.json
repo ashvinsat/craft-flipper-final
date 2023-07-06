@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Magma Rod",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "STICK:1",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "MAGMA_FISH_SILVER:5",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": "MAGMA_FISH_SILVER:5"
+   },
+   "internalname": "MAGMA_ROD",
+   "crafttext": "Requires: Magmafish IV"
+}

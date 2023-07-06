@@ -1,0 +1,16 @@
+{
+   "internalname": "RED_CLAW_ARTIFACT",
+   "displayname": "\u00a75Red Claw Artifact",
+   "recipe": {
+      "A1": "ENCHANTED_LEATHER:32",
+      "A2": "GOLDEN_TOOTH:18",
+      "A3": "ENCHANTED_LEATHER:32",
+      "B1": "GOLDEN_TOOTH:18",
+      "B2": "RED_CLAW_EGG:1",
+      "B3": "GOLDEN_TOOTH:18",
+      "C1": "ENCHANTED_LEATHER:32",
+      "C2": "RED_CLAW_RING:1",
+      "C3": "ENCHANTED_LEATHER:32"
+   },
+   "crafttext": ""
+}

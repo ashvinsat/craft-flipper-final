@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a75Braided Griffin Feather",
+   "recipe": {
+      "A1": "GRIFFIN_FEATHER:32",
+      "A2": "SOUL_STRING:64",
+      "A3": "GRIFFIN_FEATHER:32",
+      "B1": "SOUL_STRING:64",
+      "B2": "GRIFFIN_FEATHER:32",
+      "B3": "SOUL_STRING:64",
+      "C1": "GRIFFIN_FEATHER:32",
+      "C2": "SOUL_STRING:64",
+      "C3": "GRIFFIN_FEATHER:32"
+   },
+   "internalname": "BRAIDED_GRIFFIN_FEATHER",
+   "crafttext": ""
+}

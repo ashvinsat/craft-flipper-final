@@ -1,0 +1,15 @@
+{
+   "displayname": "\u00a79Revenant Viscera",
+   "recipe": {
+      "A1": "",
+      "A2": "REVENANT_FLESH:32",
+      "A3": "",
+      "B1": "REVENANT_FLESH:32",
+      "B2": "ENCHANTED_STRING:32",
+      "B3": "REVENANT_FLESH:32",
+      "C1": "",
+      "C2": "REVENANT_FLESH:32",
+      "C3": ""
+   },
+   "internalname": "REVENANT_VISCERA"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Blue Jerry Talisman",
+   "recipe": {
+      "A1": "",
+      "A2": "JERRY_TALISMAN_GREEN:1",
+      "A3": "",
+      "B1": "JERRY_TALISMAN_GREEN:1",
+      "B2": "JERRY_TALISMAN_GREEN:1",
+      "B3": "JERRY_TALISMAN_GREEN:1",
+      "C1": "",
+      "C2": "JERRY_TALISMAN_GREEN:1",
+      "C3": ""
+   },
+   "internalname": "JERRY_TALISMAN_BLUE",
+   "crafttext": ""
+}

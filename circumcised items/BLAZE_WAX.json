@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Blaze Wax",
+   "recipe": {
+      "A1": "ENCHANTED_BLAZE_POWDER:10",
+      "A2": "ENCHANTED_BLAZE_POWDER:10",
+      "A3": "ENCHANTED_BLAZE_POWDER:10",
+      "B1": "ENCHANTED_BLAZE_POWDER:10",
+      "B2": "BEZOS:10",
+      "B3": "ENCHANTED_BLAZE_POWDER:10",
+      "C1": "ENCHANTED_BLAZE_POWDER:10",
+      "C2": "ENCHANTED_BLAZE_POWDER:10",
+      "C3": "ENCHANTED_BLAZE_POWDER:10"
+   },
+   "internalname": "BLAZE_WAX",
+   "crafttext": "Requires: Blaze Rod VI"
+}

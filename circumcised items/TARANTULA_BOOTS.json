@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Tarantula Boots",
+   "recipe": {
+      "A1": "TARANTULA_SILK:1",
+      "A2": "SPIDER_CATALYST:1",
+      "A3": "TARANTULA_SILK:1",
+      "B1": "ENCHANTED_IRON:64",
+      "B2": "SPIDER_BOOTS:1",
+      "B3": "ENCHANTED_IRON:64",
+      "C1": "TARANTULA_SILK:1",
+      "C2": "ENCHANTED_IRON:64",
+      "C3": "TARANTULA_SILK:1"
+   },
+   "internalname": "TARANTULA_BOOTS",
+   "crafttext": ""
+}

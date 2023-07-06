@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Vanquished Magma Necklace",
+   "recipe": {
+      "A1": "ENCHANTED_MAGMA_CREAM:64",
+      "A2": "",
+      "A3": "ENCHANTED_MAGMA_CREAM:64",
+      "B1": "ENCHANTED_MAGMA_CREAM:64",
+      "B2": "MAGMA_NECKLACE:1",
+      "B3": "ENCHANTED_MAGMA_CREAM:64",
+      "C1": "",
+      "C2": "CORRUPTED_NETHER_STAR:3",
+      "C3": ""
+   },
+   "internalname": "VANQUISHED_MAGMA_NECKLACE",
+   "crafttext": ""
+}

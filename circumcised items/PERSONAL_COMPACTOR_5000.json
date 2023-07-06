@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Personal Compactor 5000",
+   "recipe": {
+      "A1": "ENCHANTED_REDSTONE_BLOCK:2",
+      "A2": "ENCHANTED_REDSTONE_BLOCK:2",
+      "A3": "ENCHANTED_REDSTONE_BLOCK:2",
+      "B1": "ENCHANTED_REDSTONE_BLOCK:2",
+      "B2": "",
+      "B3": "ENCHANTED_REDSTONE_BLOCK:2",
+      "C1": "ENCHANTED_REDSTONE_BLOCK:2",
+      "C2": "PERSONAL_COMPACTOR_4000:1",
+      "C3": "ENCHANTED_REDSTONE_BLOCK:2"
+   },
+   "internalname": "PERSONAL_COMPACTOR_5000",
+   "crafttext": "Requires: Redstone XI"
+}

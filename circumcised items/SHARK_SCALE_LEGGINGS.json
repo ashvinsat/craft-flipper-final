@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Shark Scale Leggings",
+   "internalname": "SHARK_SCALE_LEGGINGS",
+   "recipe": {
+      "A1": "ENCHANTED_SHARK_FIN:1",
+      "A2": "SPONGE_LEGGINGS:1",
+      "A3": "ENCHANTED_SHARK_FIN:1",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "crafttext": ""
+}

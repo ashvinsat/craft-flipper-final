@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Goldor's Leggings",
+   "recipe": {
+      "A1": "GIANT_FRAGMENT_BOULDER:1",
+      "A2": "GIANT_FRAGMENT_BOULDER:1",
+      "A3": "GIANT_FRAGMENT_BOULDER:1",
+      "B1": "GIANT_FRAGMENT_BOULDER:1",
+      "B2": "WITHER_LEGGINGS:1",
+      "B3": "GIANT_FRAGMENT_BOULDER:1",
+      "C1": "GIANT_FRAGMENT_BOULDER:1",
+      "C2": "GIANT_FRAGMENT_BOULDER:1",
+      "C3": "GIANT_FRAGMENT_BOULDER:1"
+   },
+   "internalname": "TANK_WITHER_LEGGINGS",
+   "crafttext": ""
+}

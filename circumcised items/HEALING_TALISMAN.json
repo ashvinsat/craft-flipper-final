@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7fHealing Talisman",
+   "recipe": {
+      "A1": "WATER_LILY:16",
+      "A2": "WATER_LILY:16",
+      "A3": "WATER_LILY:16",
+      "B1": "WATER_LILY:16",
+      "B2": "WATER_LILY:16",
+      "B3": "WATER_LILY:16",
+      "C1": "WATER_LILY:16",
+      "C2": "WATER_LILY:16",
+      "C3": "WATER_LILY:16"
+   },
+   "internalname": "HEALING_TALISMAN",
+   "crafttext": "Requires: Lily Pad III"
+}

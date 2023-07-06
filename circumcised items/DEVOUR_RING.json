@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Devour Ring",
+   "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_RAW_CHICKEN:2",
+      "A3": "",
+      "B1": "ENCHANTED_RAW_SALMON:4",
+      "B2": "REVENANT_VISCERA:39",
+      "B3": "ENCHANTED_RAW_SALMON:4",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "DEVOUR_RING",
+   "crafttext": ""
+}

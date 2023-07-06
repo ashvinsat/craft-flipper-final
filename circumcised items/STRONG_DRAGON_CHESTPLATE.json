@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Strong Dragon Chestplate",
+   "recipe": {
+      "A1": "STRONG_FRAGMENT:10",
+      "A2": "",
+      "A3": "STRONG_FRAGMENT:10",
+      "B1": "STRONG_FRAGMENT:10",
+      "B2": "STRONG_FRAGMENT:10",
+      "B3": "STRONG_FRAGMENT:10",
+      "C1": "STRONG_FRAGMENT:10",
+      "C2": "STRONG_FRAGMENT:10",
+      "C3": "STRONG_FRAGMENT:10"
+   },
+   "internalname": "STRONG_DRAGON_CHESTPLATE",
+   "crafttext": ""
+}

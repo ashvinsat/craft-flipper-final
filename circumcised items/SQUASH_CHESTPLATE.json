@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Squash Chestplate",
+   "recipe": {
+      "A1": "SQUASH:10",
+      "A2": "CROPIE_CHESTPLATE:1",
+      "A3": "SQUASH:10",
+      "B1": "ENCHANTED_MELON_BLOCK:24",
+      "B2": "POLISHED_PUMPKIN:8",
+      "B3": "ENCHANTED_MELON_BLOCK:24",
+      "C1": "ENCHANTED_COOKIE:10",
+      "C2": "ENCHANTED_COOKIE:10",
+      "C3": "ENCHANTED_COOKIE:10"
+   },
+   "internalname": "SQUASH_CHESTPLATE",
+   "crafttext": ""
+}

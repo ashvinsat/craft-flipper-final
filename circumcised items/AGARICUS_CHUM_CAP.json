@@ -1,0 +1,17 @@
+{
+   "displayname": "\u00a7aAgaricus Chumcap",
+   "recipe": {
+      "A1": "AGARICUS_CAP:1",
+      "A2": "AGARICUS_CAP:1",
+      "A3": "AGARICUS_CAP:1",
+      "B1": "AGARICUS_CAP:1",
+      "B2": "RIFT_BUCKET:1",
+      "B3": "AGARICUS_CAP:1",
+      "C1": "AGARICUS_CAP:1",
+      "C2": "AGARICUS_CAP:1",
+      "C3": "AGARICUS_CAP:1",
+      "count": 8
+   },
+   "internalname": "AGARICUS_CHUM_CAP",
+   "crafttext": "Requires: Agaricus Cap IV"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79\u2764 \u00a79Fine Ruby Gemstone",
+   "recipe": {
+      "A1": "",
+      "A2": "FLAWED_RUBY_GEM:16",
+      "A3": "",
+      "B1": "FLAWED_RUBY_GEM:16",
+      "B2": "FLAWED_RUBY_GEM:16",
+      "B3": "FLAWED_RUBY_GEM:16",
+      "C1": "",
+      "C2": "FLAWED_RUBY_GEM:16",
+      "C3": ""
+   },
+   "internalname": "FINE_RUBY_GEM",
+   "crafttext": "Requires Gemstone Collection V"
+}

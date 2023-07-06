@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Redstone",
+   "recipe": {
+      "A1": "",
+      "A2": "REDSTONE:32",
+      "A3": "",
+      "B1": "REDSTONE:32",
+      "B2": "REDSTONE:32",
+      "B3": "REDSTONE:32",
+      "C1": "",
+      "C2": "REDSTONE:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_REDSTONE",
+   "crafttext": "Requires: Redstone IV"
+}

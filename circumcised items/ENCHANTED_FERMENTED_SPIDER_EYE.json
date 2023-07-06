@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Fermented Spider Eye",
+   "recipe": {
+      "A1": "",
+      "A2": "BROWN_MUSHROOM:64",
+      "A3": "",
+      "B1": "",
+      "B2": "SUGAR:64",
+      "B3": "",
+      "C1": "",
+      "C2": "ENCHANTED_SPIDER_EYE:64",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_FERMENTED_SPIDER_EYE",
+   "crafttext": "Requires: Spider Eye VII"
+}

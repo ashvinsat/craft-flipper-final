@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75\u00a74Sin\u00a75seeker Scythe",
+   "recipe": {
+      "A1": "NULL_ATOM:4",
+      "A2": "NULL_OVOID:8",
+      "A3": "NULL_ATOM:4",
+      "B1": "NULL_OVOID:8",
+      "B2": "SINFUL_DICE:1",
+      "B3": "NULL_OVOID:8",
+      "C1": "NULL_ATOM:4",
+      "C2": "NULL_OVOID:8",
+      "C3": "NULL_ATOM:4"
+   },
+   "internalname": "SINSEEKER_SCYTHE",
+   "crafttext": ""
+}

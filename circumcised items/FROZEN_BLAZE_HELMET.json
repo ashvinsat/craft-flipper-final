@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a76Frozen Blaze Helmet",
+   "recipe": {
+      "A1": "ENCHANTED_PACKED_ICE:8",
+      "A2": "ENCHANTED_PACKED_ICE:8",
+      "A3": "ENCHANTED_PACKED_ICE:8",
+      "B1": "ENCHANTED_PACKED_ICE:8",
+      "B2": "BLAZE_HELMET:1",
+      "B3": "ENCHANTED_PACKED_ICE:8",
+      "C1": "ENCHANTED_PACKED_ICE:8",
+      "C2": "ENCHANTED_PACKED_ICE:8",
+      "C3": "ENCHANTED_PACKED_ICE:8"
+   },
+   "internalname": "FROZEN_BLAZE_HELMET",
+   "crafttext": "Requires: Ice IX"
+}

@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aEnchanted Charcoal",
+   "recipe": {
+      "A1": "",
+      "A2": "COAL:32",
+      "A3": "",
+      "B1": "COAL:32",
+      "B2": "LOG:32",
+      "B3": "COAL:32",
+      "C1": "",
+      "C2": "COAL:32",
+      "C3": ""
+   },
+   "internalname": "ENCHANTED_CHARCOAL",
+   "crafttext": "Requires: Coal V"
+}

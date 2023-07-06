@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7f\u00a7f\u00a75Scarf's Thesis",
+   "recipe": {
+      "A1": "SCARF_STUDIES:1",
+      "A2": "SCARF_STUDIES:1",
+      "A3": "",
+      "B1": "SCARF_STUDIES:1",
+      "B2": "SCARF_STUDIES:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "SCARF_THESIS",
+   "crafttext": ""
+}

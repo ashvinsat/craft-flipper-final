@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aIce Bait",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ICE:1",
+      "B2": "RAW_FISH:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "ICE_BAIT",
+   "crafttext": "Requires: Ice VI"
+}

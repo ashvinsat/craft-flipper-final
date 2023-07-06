@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a79Firedust Dagger",
+   "recipe": {
+      "A1": "",
+      "A2": "MAGMA_FISH_SILVER:30",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+   },
+   "internalname": "FIREDUST_DAGGER",
+   "crafttext": ""
+}

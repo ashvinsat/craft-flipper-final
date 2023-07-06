@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aMagical Mushroom Soup",
+   "recipe": {
+      "A1": "",
+      "A2": "GLOWSTONE_DUST:1",
+      "A3": "",
+      "B1": "RED_MUSHROOM:1",
+      "B2": "BROWN_MUSHROOM:1",
+      "B3": "REDSTONE:1",
+      "C1": "",
+      "C2": "BOWL:1",
+      "C3": ""
+   },
+   "internalname": "MAGIC_MUSHROOM_SOUP",
+   "crafttext": "Requires: Mushroom IV"
+}

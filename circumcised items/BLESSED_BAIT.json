@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a7aBlessed Bait",
+   "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "GOLD_BLOCK:1",
+      "B2": "RAW_FISH:1",
+      "B3": "PRISMARINE_CRYSTALS:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "BLESSED_BAIT",
+   "crafttext": "Requires: Prismarine Crystals VI"
+}

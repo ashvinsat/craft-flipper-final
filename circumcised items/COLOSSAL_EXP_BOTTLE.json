@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Colossal Experience Bottle",
+   "recipe": {
+      "A1": "",
+      "A2": "COLOSSAL_EXP_BOTTLE_UPGRADE:1",
+      "A3": "",
+      "B1": "",
+      "B2": "TITANIC_EXP_BOTTLE:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+   },
+   "internalname": "COLOSSAL_EXP_BOTTLE",
+   "crafttext": ""
+}

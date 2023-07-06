@@ -1,0 +1,16 @@
+{
+   "displayname": "\u00a75Treecapitator",
+   "recipe": {
+      "A1": "ENCHANTED_OBSIDIAN:64",
+      "A2": "ENCHANTED_OBSIDIAN:64",
+      "A3": "ENCHANTED_OBSIDIAN:64",
+      "B1": "ENCHANTED_OBSIDIAN:64",
+      "B2": "JUNGLE_AXE:1",
+      "B3": "ENCHANTED_OBSIDIAN:64",
+      "C1": "ENCHANTED_OBSIDIAN:64",
+      "C2": "ENCHANTED_OBSIDIAN:64",
+      "C3": "ENCHANTED_OBSIDIAN:64"
+   },
+   "internalname": "TREECAPITATOR_AXE",
+   "crafttext": "Requires: Obsidian VIII"
+}
