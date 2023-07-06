@@ -47,16 +47,19 @@ def MultilayeredRecipe(oldDict):
             filePath = os.path.join(scriptDir, 'circumcised items', i + '.json')
             file = open(filePath)
             data = json.load(file)
-            for j in data['recipe'].values():
-                if j == '':
-                    pass
-                else: 
-                    key, value = j.split(':')
-                    if key in newrecipe:
-                        newrecipe[key] += int(value) * oldDict[i]
-                        #but some day make it so that if that value goes over 160 u can just leave it as the previous form
-                    else:
-                        newrecipe[key] = int(value) * oldDict[i]
+            try:
+                for j in data['recipe'].values():
+                    if j == '':
+                        pass
+                    else: 
+                        key, value = j.split(':')
+                        if key in newrecipe:
+                            newrecipe[key] += int(value) * oldDict[i]
+                            #but some day make it so that if that value goes over 160 u can just leave it as the previous form
+                        else:
+                            newrecipe[key] = int(value) * oldDict[i]
+            except:
+                pass
             del newrecipe[i]
         
             file.close()
@@ -66,8 +69,6 @@ def MultilayeredRecipe(oldDict):
 
 def DumpToFile(tag):
     dumpy = GetDict(tag)
-    print(dumpy)
     with open("craftingrecipes.json", 'a') as f:
         json.dump(dumpy, f, indent=4)
         f.write(",")
-    print("success")
