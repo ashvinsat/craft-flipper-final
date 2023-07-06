@@ -11,7 +11,7 @@ bz = requests.get('https://sky.shiiyu.moe/api/v2/bazaar').json()
 def GetDict(tag):
     #open the file for the item
     scriptDir = os.path.dirname(os.path.abspath(__file__))
-    filePath = os.path.join(scriptDir, 'items', tag + '.json')
+    filePath = os.path.join(scriptDir, 'circumcised items', tag + '.json')
     file = open(filePath)
     data = json.load(file)
     recipe = {}
@@ -44,7 +44,7 @@ def MultilayeredRecipe(oldDict):
     for i in oldDict.keys():
         try:
             scriptDir = os.path.dirname(os.path.abspath(__file__))
-            filePath = os.path.join(scriptDir, 'items', i + '.json')
+            filePath = os.path.join(scriptDir, 'circumcised items', i + '.json')
             file = open(filePath)
             data = json.load(file)
             for j in data['recipe'].values():
